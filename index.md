@@ -1,7 +1,8 @@
 
 # Week 1 (Sep 26, 2017)
 
-+ Introduction to R ([html](files/Lecture_01.html) \| [pdf](files/Lecture_01.pdf))
++ Introduction to R ([html](files/01_R_Basics.html) \| [pdf](files/01_R_Basics.pdf))
++ Some base R exercises ([html](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma.html))
 
 ## Supplementary Documents
 
