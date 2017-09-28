@@ -5,7 +5,8 @@ Introduction ([download](files/mef-intro.pdf))
 # Week 1 (Sep 26, 2017)
 
 + Introduction to R ([html](files/01_R_Basics.html) \| [pdf](files/01_R_Basics.pdf))
-+ Some base R exercises ([html](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma.html))
++ Some base R exercises ([html](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma.html)) ([Solutions](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma_cozumler.html))
++ For further reading it is recommended to read R'a Hızlı Giriş and Learn X in Y Minutes - R. You can find the links below. For visual learning you can refer to your Udacity course and DataCamp courses (free ones).
 
 ## Supplementary Documents
 
