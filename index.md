@@ -2,6 +2,11 @@
 Syllabus ([download](files/BDA 503 Syllabus Fall 17.docx))
 Introduction ([download](files/mef-intro.pdf))
 
+# Week 2 (Oct 10, 2017)
+
++ Introduction to Tidyverse ([html](files/02_Tidyverse.html))
++ Alternate Story of Big Data ([html](files/02_Big_Data.html))
+
 # Week 1 (Sep 26, 2017)
 
 + Introduction to R ([html](files/01_R_Basics.html) \| [pdf](files/01_R_Basics.pdf))
