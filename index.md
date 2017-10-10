@@ -1,6 +1,9 @@
 
-Syllabus ([download](files/BDA 503 Syllabus Fall 17.docx))
-Introduction ([download](files/mef-intro.pdf))
+# Essentials
+
++ Syllabus ([download](files/BDA 503 Syllabus Fall 17.docx))
++ Introduction ([download](files/mef-intro.pdf))
++ Project Guidelines ([html](files/guidelines.html) \| [pdf](files/guidelines.pdf))
 
 # Week 2 (Oct 10, 2017)
 
