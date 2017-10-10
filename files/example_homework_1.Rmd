@@ -1,0 +1,19 @@
+---
+title: "Interesting R Examples"
+author: Name Surname - BDA 503 - Fall 2017
+---
+```{r,echo=FALSE,results="hide"}
+library(knitr)
+opts_chunk$set(tidy.opts=list(width.cutoff=60),tidy=TRUE)
+```
+
+```{r,echo=FALSE,eval=FALSE}
+rmarkdown::render("/Users/berkorbay/Dropbox/Courses_given/MEF_BDA_503_2017F/Guidelines/example_homework_1.Rmd",output_format="pdf_document")
+rmarkdown::render("/Users/berkorbay/Dropbox/Courses_given/MEF_BDA_503_2017F/Guidelines/example_homework_1.Rmd",output_format="html_document")
+```
+
+1. [Exploring Survival on the Titanic](https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic)
+
+    This example is important because it is an R Notebook on Titanic data set. Titanic is considered as one of the Data Science 101 data set and this notebook provides a good exploratory data analysis. It is also a Kaggle Kernel, which is a very good source for this kind of example R codes. The notebook also covers feature engineering, missing data imputation and modeling.
+
+2.
