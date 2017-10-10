@@ -9,6 +9,8 @@
 
 + Introduction to Tidyverse ([html](files/02_Tidyverse.html))
 + Alternate Story of Big Data ([html](files/02_Big_Data.html))
++ `secimler` package installation instructions ([Click](https://berkorbay.github.io/secimler/))
++ Further reading and self study exercises ([1](https://r338.github.io/ab-2017/dokumanlar/dokuman_dplyr.html) [2](https://r338.github.io/ab-2017/dokumanlar/dokuman_dplyr_alistirma.html) [3](https://r338.github.io/ab-2017/dokumanlar/dokuman_ggplot2.html))
 
 # Week 1 (Sep 26, 2017)
 
