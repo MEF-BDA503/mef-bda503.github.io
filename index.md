@@ -13,6 +13,35 @@
 + Further reading and self study exercises ([1](https://r338.github.io/ab-2017/dokumanlar/dokuman_dplyr.html) [2](https://r338.github.io/ab-2017/dokumanlar/dokuman_dplyr_alistirma.html) [3](https://r338.github.io/ab-2017/dokumanlar/dokuman_ggplot2.html))
 + `secimler` data (for those who could not install the package) [June 6](files/secim150607g.rda) [Nov 1](files/secim151101g.rda)
 
+## Extra Materials
+
+For audiovisual learners, some webinars [here](https://www.rstudio.com/resources/webinars/).
+
+### dplyr
+
++ [Official dplyr tutorial](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)
++ [dplyr join functions](http://stat545.com/bit001_dplyr-cheatsheet.html)
++ [dplyr join functions official tutorial](https://cran.r-project.org/web/packages/dplyr/vignettes/two-table.html)
++ [dplyr Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
+
+### ggplot2
+
++ [ggplot2 Tidyverse Page](http://ggplot2.tidyverse.org/)
++ [R4DS Book - Data Visualization](http://r4ds.had.co.nz/data-visualisation.html)
++ [ggplot2 Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
++ [ggplot2 Gallery](http://www.r-graph-gallery.com/portfolio/ggplot2-package/)
+
+### RMarkdown
+
++ [Introduction to RMarkdown - Official](http://rmarkdown.rstudio.com/lesson-1.html)
++ [R4DS Book - Communication](http://r4ds.had.co.nz/communicate-intro.html)
++ [DataCamp - Authoring R Markdown Reports Free Part](https://www.datacamp.com/courses/reporting-with-r-markdown)
++ [RMarkdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference-guide.png)
+
+### RStudio
+
++ [RStudio - Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
+
 # Week 1 (Sep 26, 2017)
 
 + Introduction to R ([html](files/01_R_Basics.html) \| [pdf](files/01_R_Basics.pdf))
