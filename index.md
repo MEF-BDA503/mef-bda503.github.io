@@ -11,6 +11,7 @@
 + Alternate Story of Big Data ([html](files/02_Big_Data.html))
 + `secimler` package installation instructions ([Click](https://berkorbay.github.io/secimler/))
 + Further reading and self study exercises ([1](https://r338.github.io/ab-2017/dokumanlar/dokuman_dplyr.html) [2](https://r338.github.io/ab-2017/dokumanlar/dokuman_dplyr_alistirma.html) [3](https://r338.github.io/ab-2017/dokumanlar/dokuman_ggplot2.html))
++ `secimler` data (for those who could not install the package) [June 6](files/secim150607g.rda) [Nov 1](files/secim151101g.rda)
 
 # Week 1 (Sep 26, 2017)
 
