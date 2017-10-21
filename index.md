@@ -6,6 +6,10 @@
 + Project Guidelines ([html](files/guidelines.html) \| [pdf](files/guidelines.pdf))
 + Homework Tutorial ([pdf](files/hw_tutorial.pdf))
 
+# Week 3 (Oct 24, 2017)
+
++ First Data Show is ready! See Berkay's Data Show [here](https://berkorbay.github.io/datashow/bsoyer_datashow.html).
+
 # Week 2 (Oct 10, 2017)
 
 + Introduction to Tidyverse ([html](files/02_Tidyverse.html))
