@@ -9,6 +9,7 @@
 # Week 3 (Oct 24, 2017)
 
 + First Data Show is ready! See Berkay's Data Show [here](https://berkorbay.github.io/datashow/bsoyer_datashow.html).
++ Your first Case Study is "Welcome to University". See the details from [here](files/case_study_1.html)
 
 # Week 2 (Oct 10, 2017)
 
