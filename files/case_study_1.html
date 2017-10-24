@@ -132,6 +132,12 @@ setwd(&quot;~/myBDAgroup/case_1/&quot;)
 # Download from GitHub (do it only once)
 download.file(&quot;https://mef-bda503.github.io/files/osym_data_2017.RData&quot;, 
     &quot;osym_data_2017.RData&quot;)
+# Install tidyverse if not already installed
+if (!(&quot;tidyverse&quot; %in% installed.packages())) {
+    install.packages(&quot;tidyverse&quot;, repos = &quot;https://cran.r-project.org&quot;)
+}
+# Load tidyverse package
+library(tidyverse)
 # Load the data
 load(&quot;osym_data_2017.RData&quot;)</code></pre>
 <p>Now that we loaded it, let’s see the data. Your data consists of undergraduate programs offered in 2017. Each program offers an availability (i.e. quota). Then students get placed according to their lists and their scores. Each program is filled with the students ranked by their scores until placements are equal to availability. Student placed to a a program with the highest score forms the maximum score of that program and the last student to be placed forms the minimum score.</p>
