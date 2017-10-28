@@ -15,9 +15,9 @@
 
 Check out these projects to be an example for your projects. Though, better work is expected from you for this year :) (MEF Trivia fact: One of the students of MEF BDA program from last year is now your instructor.)
 
-+ Data Crunchers [html analysis](files/datacrunchers_usedcars_v1.html) [ppt presentation](files/Data_Crunchers_Presantation_v2.pdf)
-+ Paranormal Distribution [html analysis](files/BDA503_DefaultOfCreditCardClients_ParanormalDistribution.html) [ppt presentation](files/BDA503_DefaultOfCreditCardClients_ParanormalDistribution.pdf)
-+ haha [html analysis](files/Project_haha.html) [ppt presentation](Project_haha.pdf)
++ Data Crunchers ([html analysis](files/datacrunchers_usedcars_v1.html) \| [ppt presentation](files/Data_Crunchers_Presantation_v2.pdf))
++ Paranormal Distribution ([html analysis](files/BDA503_DefaultOfCreditCardClients_ParanormalDistribution.html) \| [ppt presentation](files/BDA503_DefaultOfCreditCardClients_ParanormalDistribution.pdf))
++ haha ([html analysis](files/Project_haha.html) \| [ppt presentation](Project_haha.pdf))
 
 # Week 2 (Oct 10, 2017)
 
