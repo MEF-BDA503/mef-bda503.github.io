@@ -11,6 +11,14 @@
 + First Data Show is ready! See Berkay's Data Show [here](https://berkorbay.github.io/datashow/bsoyer_datashow.html).
 + Your first Case Study is "Welcome to University". See the details from [here](files/case_study_1.html)
 
+## Project Examples from Last Year's Course
+
+Check out these projects to be an example for your projects. Though, better work is expected from you for this year :) (MEF Trivia fact: One of the students of MEF BDA program from last year is now your instructor.)
+
++ Data Crunchers [html analysis](files/datacrunchers_usedcars_v1.html) [ppt presentation](files/Data_Crunchers_Presantation_v2.pptx)
++ Paranormal Distribution [html analysis](files/BDA503_DefaultOfCreditCardClients_ParanormalDistribution.html) [ppt presentation](files/BDA503_DefaultOfCreditCardClients_ParanormalDistribution.ppsx)
++ haha [html analysis](files/Project_haha.html) [ppt presentation](Project_haha.pptx)
+
 # Week 2 (Oct 10, 2017)
 
 + Introduction to Tidyverse ([html](files/02_Tidyverse.html))
