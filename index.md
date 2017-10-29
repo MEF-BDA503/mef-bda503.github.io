@@ -5,6 +5,7 @@
 + Introduction ([download](files/mef-intro.pdf))
 + Project Guidelines ([html](files/guidelines.html) \| [pdf](files/guidelines.pdf))
 + Homework Tutorial ([pdf](files/hw_tutorial.pdf))
++ [Progress Journals](works17F.html)
 
 # Week 3 (Oct 24, 2017)
 
