@@ -10,7 +10,7 @@
 # Week 4 (Nov 7, 2017)
 
 + Shiny examples. See the tutorials and . [Example 1 - Initial Example - Also Default Project on RStudio](https://shiny.rstudio.com/articles/basics.html) \| [Example 2 - Movies](https://shiny.rstudio.com/gallery/movie-explorer.html))
-+ Unfinished OSYM Case: Data parsers at the management made a mistake in parsing scores table! It appears so that some important programs were missing and they forgot to double check their work. You need to repeat your analysis with the updated data. Updated data can be found in [here]().
++ Unfinished OSYM Case: Data parsers at the management made a mistake in parsing scores table! It appears so that some important programs were missing and they forgot to double check their work. You need to repeat your analysis with the updated data. Updated data can be found in [here](https://github.com/MEF-BDA503/mef-bda503.github.io/blob/master/files/osym_data_2017_v2.RData).
 
 
 # Week 3 (Oct 24, 2017)
