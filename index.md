@@ -7,6 +7,10 @@
 + Homework Tutorial ([pdf](files/hw_tutorial.pdf))
 + [Progress Journals](works17F.html)
 
+# Week 5 (Nov 21, 2017)
+
++ A recap for dplyr is added to the files. ([html](files/tidyverse_recap_p1.html) \| [pdf](files/tidyverse_recap_p1.pdf))
+
 # Week 4 (Nov 7, 2017)
 
 + Shiny examples. See the tutorials and . [Example 1 - Initial Example - Also Default Project on RStudio](https://shiny.rstudio.com/articles/basics.html) \| [Example 2 - Movies](https://shiny.rstudio.com/gallery/movie-explorer.html))
