@@ -9,7 +9,18 @@
 
 # Week 5 (Nov 21, 2017)
 
+Please check the Machine Learning tutorials and install the necessary packages. It is recommended for you to come next lecture with your own laptops. We are not going to wait for installation problems as some packages might have many dependencies that might be problematic (Meaning: It took me 3 hours to find the solution to install rattle on Mac, we don't have that luxury during lecture hours).
+
+Also download the data folder in `data.zip` (given below) for the necessary data files. 
+
++ Introduction to Machine Learning Part I ([html](files/intro_to_ml.html) \| [pdf](files/intro_to_ml.pdf))
++ Introduction to Machine Learning Part II ([html](files/intro_to_ml_2.html) \| [pdf](files/intro_to_ml_2.pdf))
++ Necessary data folder for ML codes ([zip](files/data.zip))
 + A recap for dplyr is added to the files. ([html](files/tidyverse_recap_p1.html) \| [pdf](files/tidyverse_recap_p1.pdf))
+
+Note: For Mac OS >10.11 (El Capitan and above) users, it might cause trouble to install `rattle` package. Refer to [this tutorial](https://gist.github.com/zhiyzuo/a489ffdcc5da87f28f8589a55aa206dd).
+
+Also if rmarkdown is giving you any trouble, update it from github.
 
 # Week 4 (Nov 7, 2017)
 
