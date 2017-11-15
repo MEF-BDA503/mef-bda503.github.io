@@ -1,5 +1,6 @@
-
 # Essentials
+
+This course benefits from **DataCamp for the Classroom** program. See details [here](https://www.datacamp.com/groups/education).
 
 + Syllabus ([download](files/BDA 503 Syllabus Fall 17.docx))
 + Introduction ([download](files/mef-intro.pdf))
