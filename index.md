@@ -11,7 +11,7 @@
 
 Please check the Machine Learning tutorials and install the necessary packages. It is recommended for you to come next lecture with your own laptops. We are not going to wait for installation problems as some packages might have many dependencies that might be problematic (Meaning: It took me 3 hours to find the solution to install rattle on Mac, we don't have that luxury during lecture hours).
 
-Also download the data folder in `data.zip` (given below) for the necessary data files. 
+Also download the data folder in `data.zip` (given below) for the necessary data files.
 
 + Introduction to Machine Learning Part I ([html](files/intro_to_ml.html) \| [pdf](files/intro_to_ml.pdf))
 + Introduction to Machine Learning Part II ([html](files/intro_to_ml_2.html) \| [pdf](files/intro_to_ml_2.pdf))
@@ -73,6 +73,14 @@ For audiovisual learners, some webinars [here](https://www.rstudio.com/resources
 + [R4DS Book - Communication](http://r4ds.had.co.nz/communicate-intro.html)
 + [DataCamp - Authoring R Markdown Reports Free Part](https://www.datacamp.com/courses/reporting-with-r-markdown)
 + [RMarkdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference-guide.png)
+
+### Shiny
+
++ [Shiny Tutorial](https://shiny.rstudio.com/tutorial/)
++ [ShinyJS](https://deanattali.com/shinyjs/)
++ [flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/)
++ [Shinyapps.io - Publish Your Shiny Products](http://shinyapps.io/)
++ [htmlwidgets](http://www.htmlwidgets.org/)
 
 ### RStudio
 
