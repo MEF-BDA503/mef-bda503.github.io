@@ -18,6 +18,8 @@ You have 3 individual assigments. You may do all of them but choose one to repor
 + Assignment 2: Spam Data ([html](files/assignment_spam_data.html) \| [pdf](files/assignment_spam_data.pdf))
 + Assignment 3: Diamonds Data ([html](files/assignment_diamonds_data.html) \| [pdf](files/assignment_diamonds_data.pdf))
 
+## Lecture Notes
+
 Please check the Machine Learning tutorials and install the necessary packages. It is recommended for you to come next lecture with your own laptops. We are not going to wait for installation problems as some packages might have many dependencies that might be problematic (Meaning: It took me 3 hours to find the solution to install rattle on Mac, we don't have that luxury during lecture hours).
 
 Also download the data folder in `data.zip` (given below) for the necessary data files.
