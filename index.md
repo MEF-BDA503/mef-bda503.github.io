@@ -10,6 +10,8 @@ This course benefits from **DataCamp for the Classroom** program. See details [h
 
 # Week 5 (Nov 21, 2017)
 
+Your R links from the first assignment are put together into a single file by Özgur Hoca. You can find it [here](r_resources_students.html) or download the Excel file from [here](files/r_links.xlsx).
+
 ## Assignments (Due Date Nov. 30)
 
 You have 3 individual assigments. You may do all of them but choose one to report. Add the assignment to your individual Progress Journals. If you add more than one assignment to your PJ, state the one you want to be graded. (p.s. Those data sets are popular on internet. If you find an inspiration, please state it in a references section with links.)
