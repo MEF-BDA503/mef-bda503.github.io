@@ -10,7 +10,7 @@ This course benefits from **DataCamp for the Classroom** program. See details [h
 
 # Week 7 (Dec 19, 2017)
 
-Presentations!
+Presentations! See the presentation guidelines ([html](files/presentation_guidelines.html) \| [pdf](files/presentation_guidelines.pdf)).
 
 # Week 6 (Dec 5, 2017)
 
@@ -20,7 +20,7 @@ This is the last week of the lectures. Aside from the remaining CART part, you a
 + [R Package Primer](http://kbroman.org/pkg_primer/) by Karl Broman
 + [R Packages](http://r-pkgs.had.co.nz/intro.html) by Hadley Wickham
 
-You are going to see only the essentials. I am not going to cover the aspects of crafting an R package in detail. We are going to write a simple function inside a package, write documentation inside with `roxygen2` and call it from the package. You can also upload it to a GitHub repo and try to call from there (optional).  
+You are going to see only the essentials. I am not going to cover the aspects of crafting an R package in detail. We are going to write a simple function inside a package, write documentation inside with `roxygen2` and call it from the package. You can also upload it to a GitHub repo and try to call from there (optional).
 
 # Week 5 (Nov 21, 2017)
 
