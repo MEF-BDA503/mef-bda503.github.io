@@ -318,11 +318,57 @@ $(document).ready(function () {
 <li>Your main submissions will be through Blackboard, no email. Please refrain from posting on your progress journals until January 10, 2018. After then, it is appreciated.</li>
 <li>You will submit RMarkdown generated pdf files. You will submit only a single pdf containing all 3 parts.</li>
 <li>All works should be individual and original. (Single exception: On data gathering in part 3, you can work together and refer to the same RData file.)</li>
-<li>Instructor support will be minimal. I will try to answer technical equivocal points but I will generally not respond to consulting questions (e.g. “Am I doing it ok?” You probably are, given your overall performance.).</li>
+<li>Instructor support will be minimal. I will try to answer technically ambiguous points but I will generally not respond to consulting questions (e.g. “Am I doing it ok?” You probably are, given your overall performance.). Questions are designed to measure your opinions and I don’t want to color your perspective.</li>
 </ul>
 </div>
-<div id="part-i-short-and-simple" class="section level1">
-<h1>Part I: Short and Simple</h1>
+<div id="part-i-short-and-simple-20-pts" class="section level1">
+<h1>Part I: Short and Simple (20 pts)</h1>
+<p>The purpose of this part is to gauge your apprehension about data manipulation, visualization and data science workflow in general. Most questions have no single correct answer, some don’t have good answers at all. It is possible to write many pages on the questions below but please keep it short. Constrain your answers to one or two paragraphs (7-8 lines tops).</p>
+<ol style="list-style-type: decimal">
+<li><p>What is your opinion about two y-axis graphs? Do you use it at work? Is it a good practice, a necessary evil, or plain horrible? See Hadley Wickham’s point (and other discussion in the topic) before making your argument (<a href="https://stackoverflow.com/a/3101876/3608936" class="uri">https://stackoverflow.com/a/3101876/3608936</a>). See an example of two y-axis graph on <a href="https://mef-bda503.github.io/gpj-rjunkies/files/project/index.html#comparing__of_accidents___of_departures" class="uri">https://mef-bda503.github.io/gpj-rjunkies/files/project/index.html#comparing__of_accidents___of_departures</a></p></li>
+<li><p>What is your exploratory data analysis workflow? Suppose you are given a data set and a research question. Where do you start? How do you proceed? For instance, you are given the task to distribute funds from donations to public welfare projects in a wide range of subjects (e.g. education, gender equality, poverty, job creation, healthcare) with the objective of maximum positive impact on the society in general. Assume you have almost all the data you require. How do you measure impact? How do you form performance measures? What makes you think you find an interesting angle?</p>
+<p>Would you present an argument for a policy that you are more inclined to (e.g. suppose you are more inclined to allocate budget to fix gender inequality than affordable healthcare) or would you just present what data says? In other words, would the (honest) title of your presentation be “Gender Inequality - The Most Important Social Problem Backed by Data” or “Pain Points in Our Society and Optimal Budget Allocation”?</p></li>
+<li><p>What are the differences between time series and non time series data in terms of analysis, modeling and validation? In other words what makes Bitcoin price movements analysis different from diamonds (or carat) data set?</p></li>
+<li><p>If you had to plot a single graph using the data below what would it be? Why? Make your argument, actually code the plot and provide the output. (You can find detailed info about the movies data set in its help file. Use <code>?movies</code>, after you load <code>ggplot2movies</code> package.)</p></li>
+</ol>
+<pre class="r"><code>library(ggplot2movies)
+movies</code></pre>
+<pre><code>## # A tibble: 58,788 x 24
+##    title  year leng… budg… rati… votes    r1    r2    r3    r4    r5    r6
+##    &lt;chr&gt; &lt;int&gt; &lt;int&gt; &lt;int&gt; &lt;dbl&gt; &lt;int&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;
+##  1 $      1971   121    NA  6.40   348  4.50  4.50  4.50  4.50 14.5  24.5 
+##  2 $100…  1939    71    NA  6.00    20  0    14.5   4.50 24.5  14.5  14.5 
+##  3 $21 …  1941     7    NA  8.20     5  0     0     0     0     0    24.5 
+##  4 $40,…  1996    70    NA  8.20     6 14.5   0     0     0     0     0   
+##  5 $50,…  1975    71    NA  3.40    17 24.5   4.50  0    14.5  14.5   4.50
+##  6 $pent  2000    91    NA  4.30    45  4.50  4.50  4.50 14.5  14.5  14.5 
+##  7 $win…  2002    93    NA  5.30   200  4.50  0     4.50  4.50 24.5  24.5 
+##  8 '15'   2002    25    NA  6.70    24  4.50  4.50  4.50  4.50  4.50 14.5 
+##  9 '38    1987    97    NA  6.60    18  4.50  4.50  4.50  0     0     0   
+## 10 '49-…  1917    61    NA  6.00    51  4.50  0     4.50  4.50  4.50 44.5 
+## # ... with 58,778 more rows, and 12 more variables: r7 &lt;dbl&gt;, r8 &lt;dbl&gt;, r9
+## #   &lt;dbl&gt;, r10 &lt;dbl&gt;, mpaa &lt;chr&gt;, Action &lt;int&gt;, Animation &lt;int&gt;, Comedy
+## #   &lt;int&gt;, Drama &lt;int&gt;, Documentary &lt;int&gt;, Romance &lt;int&gt;, Short &lt;int&gt;</code></pre>
+</div>
+<div id="part-ii-extending-your-group-project-30-pts" class="section level1">
+<h1>Part II: Extending Your Group Project (30 pts)</h1>
+<p>In this part you are going to extend your group project with an additional analysis supported by some visualizations. You are tasked with finding the best improvement on the top of your group project. About one page is enough, two pages tops.</p>
+</div>
+<div id="part-iii-welcome-to-real-life-50-pts" class="section level1">
+<h1>Part III: Welcome to Real Life (50 pts)</h1>
+<p>As all of you know well enough; real life data is not readly available and it is messy. In this part, you are going to gather data from Higher Education Council’s (YÖK) data service. You can use all the data provided on <a href="https://istatistik.yok.gov.tr/" class="uri">https://istatistik.yok.gov.tr/</a> . Take some time to see what are offered in the data sets. Choose an interesting theme which can be analyzed with the given data and collect relevant data from the service. Some example themes can be as follows.</p>
+<ul>
+<li>Gender disparity in the academic faculty.</li>
+<li>Change in the number of people in different academic positions in years.</li>
+<li>Professor/student ratios.</li>
+<li>Capacities in different departments.</li>
+<li>Comparative undergraduate / graduate student populations.</li>
+<li>Number of foreign students/professors and where they come from.</li>
+</ul>
+<ol style="list-style-type: lower-alpha">
+<li>Gather the data, bind them together and save in an .RData file. Make .RData file available online for everybody. Provide the data link in your analysis. You can work together with your friends to provide one comprehensive .RData file if it is more convenient to you. (You don’t need to report any code in this part.)</li>
+<li>Perform EDA on the data you collected based on the theme you decided on. Keep it short. One to two pages is enough, three pages tops. If you are interested and want to keep going, write a data blog post about it. I will not grade it but I can share it on social media.</li>
+</ol>
 </div>
 
 
