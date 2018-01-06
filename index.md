@@ -8,6 +8,10 @@ This course benefits from **DataCamp for the Classroom** program. See details [h
 + Homework Tutorial ([pdf](files/hw_tutorial.pdf))
 + [Progress Journals](works17F.html)
 
+# Final (Jan 6-9, 2017)
+
+Final! Read the instructions inside carefully, submit on time. ([html](files/final.html) \| [pdf](files/final.pdf)).
+
 # Week 7 (Dec 19, 2017)
 
 Presentations! See the presentation guidelines ([html](files/presentation_guidelines.html) \| [pdf](files/presentation_guidelines.pdf)).
