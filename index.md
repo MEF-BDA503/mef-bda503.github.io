@@ -8,7 +8,11 @@ This course benefits from **DataCamp for the Classroom** program. See details [h
 + Homework Tutorial ([pdf](files/hw_tutorial.pdf))
 + [Progress Journals](works17F.html)
 
-# Final (Jan 6-9, 2017)
+# Conclusions (Jan 10-15, 2018)
+
++ [Project Awards - People's Choice](peoples_choice.html)
+
+# Final (Jan 6-9, 2018)
 
 Final! Read the instructions inside carefully, submit on time. ([html](files/final.html) \| [pdf](files/final.pdf)).
 
