@@ -6,8 +6,7 @@ This is the course webpage of MEF BDA 503. See the course archive for the previo
 + Some light reading about instructor's view on R. ([Read on Blog](https://medium.com/yes-r-can/why-r-stats-is-the-best-2c09d77de25b))
 + Syllabus ([download](files/BDA 503 Syllabus Fall 18.pdf))
 
-<!-- This course benefits from **DataCamp for the Classroom** program. See details [here](https://www.datacamp.com/groups/education). -->
-
+This course benefits from **DataCamp for the Classroom** program. See details [here](https://www.datacamp.com/groups/education).
 
 # Miscellaneous
 
