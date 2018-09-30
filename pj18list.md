@@ -12,7 +12,7 @@ Ordered by first name.
 + Efehan Danışman
 + Emre Kemerci ([site](https://mef-bda503.github.io/pj18-EmreKemerci/))
 + Ferdi Ateşin
-+ Gökçe Ezeroğlu
++ Gökçe Ezeroğlu ([site](https://mef-bda503.github.io/pj18-gokceezeroglu/))
 + İsmail Batur Usta ([site](https://mef-bda503.github.io/pj18-baturusta/))
 + İstem Akca Korkmaz
 + Kadir Kemal Dursun
