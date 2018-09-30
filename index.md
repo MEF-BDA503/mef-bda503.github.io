@@ -1,20 +1,17 @@
-This is the course webpage of MEF BDA 503. See the course archive for the previous year.
+# Course Essentials
 
++ Syllabus ([download](files/bda_503_syllabus_fall_2018.pdf))
 + [Progress Journals](pj18list.html)
 
 # Week 0 (Sep 24, 2018)
 
++ Tutorial: Initializing Your Progress Journal ([download](files/initial_bonus_tutorial.pdf))
 + Some light reading about the previous year. ([Read on Blog](https://medium.com/@berk.orbay/how-to-teach-an-awesome-data-analysis-course-922f5e5651c0))
 + Some light reading about instructor's view on R. ([Read on Blog](https://medium.com/yes-r-can/why-r-stats-is-the-best-2c09d77de25b))
-+ Syllabus ([download](files/BDA 503 Syllabus Fall 18.pdf))
 
 This course benefits from **DataCamp for the Classroom** program. See details [here](https://www.datacamp.com/groups/education).
 
 # Miscellaneous
-
-## Course Archive
-
-+ [Fall 2017](https://mef-bda503.github.io/archive/fall17/)
 
 ## Data Sets for Prospective Projects
 
@@ -103,3 +100,7 @@ For audiovisual learners, some webinars [here](https://www.rstudio.com/resources
 + [RStudio Cheat Sheets (Base R, dplyr, ggplot2, RMarkdown etc.)](https://www.rstudio.com/resources/cheatsheets/)
 + [R Reference Cards](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 + [data.table Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/datatable_Cheat_Sheet_R.pdf)
+
+## Course Archive
+
++ [Fall 2017](https://mef-bda503.github.io/archive/fall17/)
