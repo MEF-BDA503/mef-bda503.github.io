@@ -7,7 +7,7 @@ Ordered by first name.
 + Ahmet Turhal ([site](https://mef-bda503.github.io/pj18-aturhal/))
 + Barış Can Tayiz
 + Batur Usta ([site](https://mef-bda503.github.io/pj18-baturusta/))
-+ Büşra Koç
++ Büşra Koç ([site](https://mef-bda503.github.io/pj18-busraakoc/))
 + Büşra Aydemir ([site](https://mef-bda503.github.io/pj18-aydemirbusra/))
 + Can Koyutürk
 + Efehan Danışman ([site](https://mef-bda503.github.io/pj18-efehandanisman/))
@@ -25,7 +25,7 @@ Ordered by first name.
 + Murat Göçer
 + Murat Orhan
 + Mustafa Kurt
-+ Mustafa Yıldız
++ Mustafa Yıldız ([site](https://mef-bda503.github.io/pj18-yildizmust/))
 + Mustafa Kerim Acar
 + Oktay Ekici ([site](https://mef-bda503.github.io/pj18-oktayekici/))
 + Orkun Berk Yüzbaşıoğlu ([site](https://mef-bda503.github.io/pj18-orkunberkyuzbasioglu/))
