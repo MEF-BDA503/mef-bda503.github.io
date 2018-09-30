@@ -1,5 +1,7 @@
 This is the course webpage of MEF BDA 503. See the course archive for the previous year.
 
++ [Progress Journals](pj18list.html)
+
 # Week 0 (Sep 24, 2018)
 
 + Some light reading about the previous year. ([Read on Blog](https://medium.com/@berk.orbay/how-to-teach-an-awesome-data-analysis-course-922f5e5651c0))
