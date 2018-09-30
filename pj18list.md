@@ -7,7 +7,7 @@ Ordered by first name.
 + Ahmet Turhal
 + Barış Can Tayiz
 + Büşra Koç
-+ Büşra Nur Aydemir
++ Büşra Aydemir ([site](https://mef-bda503.github.io/pj18-aydemirbusra/))
 + Can Koyutürk
 + Efehan Danışman
 + Emre Kemerci ([site](https://mef-bda503.github.io/pj18-EmreKemerci/))
