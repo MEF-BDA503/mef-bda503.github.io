@@ -4,7 +4,7 @@ Back to [home](https://mef-bda503.github.io)
 
 Ordered by first name.
 
-+ Ahmet Turhal
++ Ahmet Turhal ([site](https://mef-bda503.github.io/pj18-aturhal/))
 + Barış Can Tayiz
 + Batur Usta ([site](https://mef-bda503.github.io/pj18-baturusta/))
 + Büşra Koç
@@ -32,8 +32,8 @@ Ordered by first name.
 + Ömer Bayır ([site](https://mef-bda503.github.io/pj18-omerbayir/))
 + Ömer Elmasrı
 + Özgür Özdemir
-+ Salih Uçar
++ Salih Uçar ([site](https://mef-bda503.github.io/pj18-ucarsal/))
 + Serhan Süer
 + Tarık Özçelik ([site](https://mef-bda503.github.io/pj18-TarikOzcelik81/))
-+ Ufuk Baysal
++ Ufuk Baysal ([site](https://mef-bda503.github.io/pj18-baysalu/))
 + Uğurcan Kalenderoğlu ([site](https://mef-bda503.github.io/pj18-ukalender/))
