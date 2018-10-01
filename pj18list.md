@@ -14,12 +14,12 @@ Ordered by first name.
 + Emre Kemerci ([site](https://mef-bda503.github.io/pj18-EmreKemerci/))
 + Ferdi Ateşin
 + Gökçe Ezeroğlu ([site](https://mef-bda503.github.io/pj18-gokceezeroglu/))
-+ İstem Akca Korkmaz
++ İstem Akca Korkmaz ([site](https://mef-bda503.github.io/pj18-istema/))
 + Kadir Kemal Dursun
 + Kutlu Yücel ([site](https://mef-bda503.github.io/pj18-kkyucel/))
 + Leyla Yiğit
 + Mehmet Ak
-+ Mercan Karacabey
++ Mercan Karacabey ([site](https://mef-bda503.github.io/pj18-mkaracabey/))
 + Merve Özen Şahin ([site](https://mef-bda503.github.io/pj18-ozenm/))
 + Muharrem Çakır
 + Murat Göçer
