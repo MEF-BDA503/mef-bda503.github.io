@@ -24,16 +24,16 @@ Ordered by first name.
 + Muharrem Çakır
 + Murat Göçer
 + Murat Orhan
-+ Mustafa Kurt
++ Mustafa Kurt ([site](https://mef-bda503.github.io/pj18-mustaa8/))
 + Mustafa Yıldız ([site](https://mef-bda503.github.io/pj18-yildizmust/))
 + Mustafa Kerim Acar
 + Oktay Ekici ([site](https://mef-bda503.github.io/pj18-oktayekici/))
 + Orkun Berk Yüzbaşıoğlu ([site](https://mef-bda503.github.io/pj18-orkunberkyuzbasioglu/))
 + Ömer Bayır ([site](https://mef-bda503.github.io/pj18-omerbayir/))
-+ Ömer Elmasrı
++ Ömer Elmasrı ([site](https://mef-bda503.github.io/pj18-elmasriomer/))
 + Özgür Özdemir
 + Salih Uçar ([site](https://mef-bda503.github.io/pj18-ucarsal/))
-+ Serhan Süer
++ Serhan Süer ([site](https://mef-bda503.github.io/pj18-SerhanSuer/))
 + Tarık Özçelik ([site](https://mef-bda503.github.io/pj18-TarikOzcelik81/))
 + Ufuk Baysal ([site](https://mef-bda503.github.io/pj18-baysalu/))
 + Uğurcan Kalenderoğlu ([site](https://mef-bda503.github.io/pj18-ukalender/))
