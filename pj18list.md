@@ -16,6 +16,7 @@ Ordered by first name.
 + Gökçe Ezeroğlu ([site](https://mef-bda503.github.io/pj18-gokceezeroglu/))
 + İstem Akca Korkmaz ([site](https://mef-bda503.github.io/pj18-istema/))
 + Kadir Kemal Dursun
++ Kerim Acar  ([site](https://mef-bda503.github.io/pj18-mkerimacar/))
 + Kutlu Yücel ([site](https://mef-bda503.github.io/pj18-kkyucel/))
 + Leyla Yiğit
 + Mehmet Ak
@@ -26,7 +27,6 @@ Ordered by first name.
 + Murat Orhan
 + Mustafa Kurt ([site](https://mef-bda503.github.io/pj18-mustaa8/))
 + Mustafa Yıldız ([site](https://mef-bda503.github.io/pj18-yildizmust/))
-+ Mustafa Kerim Acar
 + Oktay Ekici ([site](https://mef-bda503.github.io/pj18-oktayekici/))
 + Orkun Berk Yüzbaşıoğlu ([site](https://mef-bda503.github.io/pj18-orkunberkyuzbasioglu/))
 + Ömer Bayır ([site](https://mef-bda503.github.io/pj18-omerbayir/))
