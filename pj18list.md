@@ -18,7 +18,7 @@ Ordered by first name.
 + Kadir Kemal Dursun
 + Kerim Acar  ([site](https://mef-bda503.github.io/pj18-mkerimacar/))
 + Kutlu Yücel ([site](https://mef-bda503.github.io/pj18-kkyucel/))
-+ Leyla Yiğit
++ Leyla Yiğit  ([site](https://mef-bda503.github.io/pj18-Leyla.Yigit/))
 + Mehmet Ak
 + Mercan Karacabey ([site](https://mef-bda503.github.io/pj18-mkaracabey/))
 + Merve Özen Şahin ([site](https://mef-bda503.github.io/pj18-ozenm/))
