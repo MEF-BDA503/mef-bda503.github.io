@@ -5,11 +5,13 @@
 
 # Week 1 (Oct 3, 2018)
 
++ [Cheat Sheet Heaven](https://www.rstudio.com/resources/cheatsheets/)
 + Introduction to R ([html](archive/fall17/files/01_R_Basics.html) \| [pdf](archive/fall17/files/01_R_Basics.pdf))
 + Some base R exercises ([html](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma.html))
 + [RMarkdown](https://rmarkdown.rstudio.com/)
 + Datacamp Homework (Don't forget to accept your invitations)
-+ Form teams of 2-3 and prepare for major projects. 
++ Form teams of 2-3 and prepare for major projects.
+
 
 # Week 0 (Sep 24, 2018)
 
