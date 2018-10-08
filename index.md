@@ -10,7 +10,8 @@
 + Some base R exercises ([html](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma.html))
 + [RMarkdown](https://rmarkdown.rstudio.com/)
 + Datacamp Homework (Don't forget to accept your invitations)
-+ Form teams of 2-3 and prepare for major projects.
++ RMarkdown Homework: Prepare an RMarkdown document. Introduce yourself in one paragraph (Your name surname, your work, your data interests and how you (plan to) use data science skills in your current/future work). Watch some UseR-2018 videos ([Link](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/videos)) and write one of them down on your RMarkdown document. Find 3 R posts relevant to your work and describe them. Get the html output and put it in your progress journal repository. Provide link from your Progress Journal page. ([Click for example](https://boun-etm58d.github.io/pj-SezginYildiz/Assignment1.html))
++ Form teams of 2-3 and prepare for major projects (we will discuss in week 2).
 
 
 # Week 0 (Sep 24, 2018)
