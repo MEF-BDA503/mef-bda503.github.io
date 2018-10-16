@@ -3,6 +3,11 @@
 + Syllabus ([download](files/bda_503_syllabus_fall_2018.pdf))
 + [Progress Journals](pj18list.html)
 
+# Week 2 (Oct 17, 2018)
+
++ Some base R exercises (Solutions!) ([html](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma_cozumler.html))
++ Tidyverse Introduction: dplyr ([html](https://mef-bda503.github.io/archive/fall17/files/tidyverse_recap_p1.html) \|[pdf](https://mef-bda503.github.io/archive/fall17/files/tidyverse_recap_p1.pdf))
+
 # Week 1 (Oct 3, 2018)
 
 + [Cheat Sheet Heaven](https://www.rstudio.com/resources/cheatsheets/)
