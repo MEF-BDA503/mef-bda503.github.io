@@ -7,6 +7,8 @@
 
 + Some base R exercises (Solutions!) ([html](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma_cozumler.html))
 + Tidyverse Introduction: dplyr ([html](https://mef-bda503.github.io/archive/fall17/files/tidyverse_recap_p1.html) \|[pdf](https://mef-bda503.github.io/archive/fall17/files/tidyverse_recap_p1.pdf))
++ ODD Assignment Example ([html](files/odd_example.html))
+
 
 # Week 1 (Oct 3, 2018)
 
