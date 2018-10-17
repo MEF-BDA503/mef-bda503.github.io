@@ -12,19 +12,19 @@ Ordered by first name.
 + Can Koyutürk
 + Efehan Danışman ([site](https://mef-bda503.github.io/pj18-efehandanisman/))
 + Emre Kemerci ([site](https://mef-bda503.github.io/pj18-EmreKemerci/))
-+ Ferdi Ateşin
++ Ferdi Ateşin ([site](https://mef-bda503.github.io/pj18-ferdiatesin/))
 + Gökçe Ezeroğlu ([site](https://mef-bda503.github.io/pj18-gokceezeroglu/))
 + İstem Akca Korkmaz ([site](https://mef-bda503.github.io/pj18-istema/))
-+ Kadir Kemal Dursun
++ Kadir Kemal Dursun ([site](https://mef-bda503.github.io/pj18-KadirKemal/))
 + Kerim Acar  ([site](https://mef-bda503.github.io/pj18-mkerimacar/))
 + Kutlu Yücel ([site](https://mef-bda503.github.io/pj18-kkyucel/))
 + Leyla Yiğit  ([site](https://mef-bda503.github.io/pj18-Leyla.Yigit/))
-+ Mehmet Ak
++ Mehmet Ak ([site](https://mef-bda503.github.io/pj18-mehmetakk/))
 + Mercan Karacabey ([site](https://mef-bda503.github.io/pj18-mkaracabey/))
 + Merve Özen Şahin ([site](https://mef-bda503.github.io/pj18-ozenm/))
-+ Muharrem Çakır
-+ Murat Göçer
-+ Murat Orhan
++ Muharrem Çakır ([site](https://mef-bda503.github.io/pj18-muharremcakir81/))
++ Murat Göçer ([site](https://mef-bda503.github.io/pj18-mrtgocer/))
++ Murat Orhan ([site](https://mef-bda503.github.io/pj18-muratorhan/))
 + Mustafa Kurt ([site](https://mef-bda503.github.io/pj18-mustaa8/))
 + Mustafa Yıldız ([site](https://mef-bda503.github.io/pj18-yildizmust/))
 + Oktay Ekici ([site](https://mef-bda503.github.io/pj18-oktayekici/))
