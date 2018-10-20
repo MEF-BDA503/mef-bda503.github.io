@@ -7,7 +7,18 @@
 
 + Some base R exercises (Solutions!) ([html](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma_cozumler.html))
 + Tidyverse Introduction: dplyr ([html](https://mef-bda503.github.io/archive/fall17/files/tidyverse_recap_p1.html) \|[pdf](https://mef-bda503.github.io/archive/fall17/files/tidyverse_recap_p1.pdf))
+
+##  ODD Assignment
+
 + ODD Assignment Example ([html](files/odd_example.html))
+
+This is a very easy one. The homework is about standardizing and merging data. I did most of the work in the example on course webpage. I expect something very similar. Here are the steps. Please try to do it as quick as possible and cooperate with your classmates if you are having any trouble.
+
++ Go to the Google Drive Excel sheet that I sent the invites to you.
++ Choose a month (preferably most recent that is not taken) and write your name and email on it.
++ Go to ODD site and download the data. Rename and add it to your github repository.
++ Follow the example and write the RMarkdown document that will download the raw excel from your repository, manipulate it in the desired format (check the example) and save it in an RDS file.
++ Add some analysis to the RMarkdown document using your dplyr skills.
 
 
 # Week 1 (Oct 3, 2018)
