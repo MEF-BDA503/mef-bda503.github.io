@@ -8,6 +8,7 @@
 + Some base R exercises (Solutions!) ([html](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma_cozumler.html))
 + Tidyverse Introduction: dplyr ([html](https://mef-bda503.github.io/archive/fall17/files/tidyverse_recap_p1.html) \|[pdf](https://mef-bda503.github.io/archive/fall17/files/tidyverse_recap_p1.pdf))
 + dplyr join operations [1](http://stat545.com/bit001_dplyr-cheatsheet.html), [2](https://dplyr.tidyverse.org/reference/join.html)
++ Bonus Material (Program coordinator's recommendation): [EdX - The Analytics Edge](https://courses.edx.org/courses/course-v1:MITx+15.071x+3T2018/course/)
 
 ##  ODD Assignment
 
