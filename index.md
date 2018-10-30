@@ -6,6 +6,9 @@
 # Week 3 (Oct 31, 2018)
 
 + Guest lecture by Hayrettin Konuk from Borsa Istanbul Takasbank
++ ggplot2
++ Lubridate ([Link](https://lubridate.tidyverse.org/))
++ EGM Example ([data](files/egm_example_data.xlsx)) ([source](http://web2.egm.org.tr/webegm2/chart/besgosterge/wg_sirketview_tablolu.asp?raportip=10))
 
 ## ODD Assignment Part 2
 
