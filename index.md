@@ -3,6 +3,25 @@
 + Syllabus ([download](files/bda_503_syllabus_fall_2018.pdf))
 + [Progress Journals](pj18list.html)
 
+# Week 3 (Oct 31, 2018)
+
++ Guest lecture by Hayrettin Konuk from Borsa Istanbul Takasbank
+
+## ODD Assignment Part 2
+
++ Submit a merge request to [this file](https://github.com/MEF-BDA503/mef-bda503.github.io/blob/master/files/car_data_merge.R) with the code piece to add your rds file to the main file. Replicate the example with your working code.
++ Perform a brief but striking exploratory analysis with the full car sales data. Your main analysis should include only a single angle and a single plot. You can perform more analyses after the first analysis.
+
+## Group Projects Initialization
+
++ Email the instructor with your intentions for a project (Proposal Phase). Your intentions should include the topic, a description of the data and tentatively planned (3 to 5 items) work.
++ You may ask the instructor about creative project ideas.
++ Create group progress journal (gpj18) with the link provided by the instructor.
++ All members of the group should join to the repository. Remember your group should consist of either 4 or 5 people.
++ On your gpj page write the name of the group, group member name surnames, brief description of your intended project and data.
++ Perform an initial exploratory analysis on the data and post the outcome html on your gpj.
++ Email the instructor the link of your gpj18 webpage.
+
 # Week 2 (Oct 17, 2018)
 
 + Some base R exercises (Solutions!) ([html](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma_cozumler.html))
