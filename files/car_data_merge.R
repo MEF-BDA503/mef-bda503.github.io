@@ -16,6 +16,12 @@ main_data <- bind_rows(main_data,readRDS(tmprds))
 # Download 2018-07 data and add to main data
 ### YOUR WORK HERE
 
+# Download 2018-07 data and add to main data
+print("Getting 2018-04 data from repository")
+download.file("https://github.com/MEF-BDA503/mef-bda503.github.io/blob/master/files/car_data_sep_18.rds?raw=true",destfile=tmprds)
+main_data <- bind_rows(main_data,readRDS(tmprds))
+
+
 # Save the final merged RDS file
 saveRDS(main_data,file="~/car_data_aggregate.rds")
 
