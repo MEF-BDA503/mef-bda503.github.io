@@ -20,8 +20,8 @@ print("Getting 2018-05 data from repository")
 download.file("https://github.com/MEF-BDA503/pj18-EmreKemerci/blob/master/AssignmentWeek2/odd_retail_sales_2018_05.xlsx?raw=true", destfile=tmprds, mode ='wb')
 main_data <- bind_rows(main_data,readRDS(tmprds))
 
-# Download 2018-07 data and add to main data
-
+# Download 201x-0x data and add to main data
+# Your Work Here
 
 # Save the final merged RDS file
 saveRDS(main_data,file="~/car_data_aggregate.rds")
