@@ -9,6 +9,8 @@
 + ggplot2 ([html](files/ggplot2_lecture.html) \| [pdf](files/ggplot2_lecture.pdf))
 + Lubridate ([Link](https://lubridate.tidyverse.org/))
 + EGM Example ([data](files/egm_example_data.xlsx)) ([source](http://web2.egm.org.tr/webegm2/chart/besgosterge/wg_sirketview_tablolu.asp?raportip=10))
++ ODD Assignment Example Rmd file ([click](files/odd_example.Rmd))
+
 
 ## ODD Assignment Part 2
 
