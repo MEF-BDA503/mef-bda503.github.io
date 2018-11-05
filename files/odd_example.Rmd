@@ -1,0 +1,85 @@
+---
+title: "Car Sales Data Import - Instructor Example"
+author: "Instructor"
+date: "10/17/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+```
+
+# From Raw to Civilized Data
+
+First we find the data on Otomotiv Distibütörleri Derneği [website](http://www.odd.org.tr/web_2837_1/neuralnetwork.aspx?type=36). We are interested in September 2018 sales. We download the data change the name to `odd_retail_sales_2018_09.xlsx` (change yours accordingly). We will make a reproducible example of data analysis from the raw data located somewhere to the final analysis.
+
+## Download Raw Data
+
+Our raw excel file is in our repository. We can automatically download that file and put it in a temporary file. Then we can read that excel document into R and remove the temp file.
+
+```{r, cache=TRUE,warning=FALSE,message=FALSE}
+# Create a temporary file
+tmp<-tempfile(fileext=".xlsx")
+# Download file from repository to the temp file
+download.file("https://github.com/MEF-BDA503/mef-bda503.github.io/blob/master/files/odd_retail_sales_2018_09.xlsx?raw=true",destfile=tmp)
+# Read that excel file using readxl package's read_excel function. You might need to adjust the parameters (skip, col_names) according to your raw file's format.
+raw_data<-readxl::read_excel(tmp,skip=7,col_names=FALSE)
+# Remove the temp file
+file.remove(tmp)
+# Remove the last two rows because they are irrelevant (total and empty rows)
+raw_data <- raw_data %>% slice(-c(43,44))
+
+# Let's see our raw data
+head(raw_data)
+```
+
+It's ok but needs some work.
+
+## Make Data Civilized
+
+In order to make the data standardized and workable we need to define column names and remove NA values for this example. Please use the same column names in your examples also.
+
+```{r, warning=FALSE,message=FALSE}
+# Use the same column names in your data.
+colnames(raw_data) <- c("brand_name","auto_dom","auto_imp","auto_total","comm_dom","comm_imp","comm_total","total_dom","total_imp","total_total")
+# Now we replace NA values with 0 and label the time period with year and month, so when we merge the data we won't be confused.
+car_data_sep_18 <- raw_data %>% mutate_if(is.numeric,funs(ifelse(is.na(.),0,.))) %>% mutate(year=2018,month=9)
+
+print(car_data_sep_18,width=Inf)
+```
+
+
+# Save Your Civilized Data
+
+One of the best methods is to save your data to an `RDS` or `RData` file. The difference is RDS can hold only one object but RData can hold many. Since we have only one data frame here we will go with RDS.
+
+```{r,eval=FALSE}
+saveRDS(car_data_sep_18,file="~/YOUR_OWN_PATH/odd_car_sales_data_sep_18.rds")
+# You can read that file by readRDS and assigning to an object 
+# e.g 
+# rds_data <- readRDS("~/YOUR_OWN_PATH/odd_car_sales_data_sep_18.rds")
+```
+
+# Finish With Some Analysis
+
+You are free to make any analysis here. I wanted to see a list of total sales of brands with both automobile and commercial vehicle sales ordered in decreasing total sales.
+
+```{r}
+car_data_sep_18 %>% 
+  filter(auto_total > 0 & comm_total > 0) %>%
+  select(brand_name,total_total) %>%
+  arrange(desc(total_total))
+```
+
+# Remarks
+
++ When you are doing your example take this document as a canvas.
++ Use the exact same column names and don't forget to add year and month of your data.
++ Create rds files and email them to the aggregator.
++ Your final analysis can be anything you are curious about.
++ If you are not sure about the functions always check the help with `?functionname` command.
++ You can collaborate but your work should be your own. Do not attempt to other students' months until the deadline.
++ You can eliminate the Remarks and Saving Civilized Data sections.
+
+
