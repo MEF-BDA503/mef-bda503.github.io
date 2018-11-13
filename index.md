@@ -3,6 +3,14 @@
 + Syllabus ([download](files/bda_503_syllabus_fall_2018.pdf))
 + [Progress Journals](pj18list.html)
 
+# Week 4 (Nov 14, 2018)
+
++ Guest lecture by [Mehmet Memecan](https://www.linkedin.com/in/mehmet-memecan-1187784b/), Co-Founder and CEO of Tarfin, an fintech company specialized in agricultural inputs financing.
++ This week we are going to learn about `shiny` and `reticulate` packages. Remember reticulate requires Python installed. Make sure these packages are working on your computers.
+  + Package installations [link](https://gist.github.com/berkorbay/5793188b7ebfe013ce64703179f9aa01)
+  + `shiny` to create interactive dashboards on web browsers ([official tutorial](https://shiny.rstudio.com/tutorial/))
+  + `reticulate` to seamlessly integrate python scripts ([official tutorial](https://rstudio.github.io/reticulate/articles/calling_python.html))
+
 # Week 3 (Oct 31, 2018)
 
 + Guest lecture by [Hayrettin Konuk](https://www.linkedin.com/in/hayrettinkonuk/) from Borsa Istanbul Takasbank ([file](files/CCP_Analytics 31102018.pptx))
