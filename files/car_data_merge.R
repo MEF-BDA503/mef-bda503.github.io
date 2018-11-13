@@ -10,6 +10,11 @@ print("Getting 2018-09 data from repository")
 download.file("https://github.com/MEF-BDA503/mef-bda503.github.io/blob/master/files/car_data_sep_18.rds?raw=true",destfile=tmprds)
 main_data <- bind_rows(main_data,readRDS(tmprds))
 
+# Download 2018-02 data and add to main data
+print("Getting 2018-02 data from repository")
+download.file("https://github.com/MEF-BDA503/pj18-aturhal/blob/master/odd_car_sales_data_feb_18.rds?raw=true",destfile=tmprds)
+main_data <- bind_rows(main_data,readRDS(tmprds))
+
 # Download 2018-01 data and add to main data
 print("Getting 2018-01 data from repository")
 download.file("https://github.com/MEF-BDA503/pj18-SerhanSuer/blob/master/odd_car_sales_data_jan_18.rds?raw=true",destfile=tmprds)
