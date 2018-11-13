@@ -27,7 +27,6 @@ main_data <- bind_rows(main_data,readRDS(tmprds))
 # Download 2016-06 data and add to main data
 print("Getting 2016-06 data from repository")
 download.file("https://github.com/MEF-BDA503/pj18-muratorhan/blob/master/odd_retail_sales_2016_06.rds?raw=true",destfile=tmprds)
-
 main_data <- bind_rows(main_data,readRDS(tmprds))
 
 # Download 2018-07 data and add to main data
