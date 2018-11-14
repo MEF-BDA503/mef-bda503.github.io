@@ -1,5 +1,16 @@
 Back to [home](https://mef-bda503.github.io)
 
+# Group Progress Journals
+
+Ordered by group name.
+
++ Data R Sizlari ([site](https://mef-bda503.github.io/gpj18-data-r-sizlari/))
++ Data Jugglers ([site](https://mef-bda503.github.io/gpj18-data-jugglers/))
++ First ([site](https://mef-bda503.github.io/gpj18-first/))
++ R_Boys ([site](https://mef-bda503.github.io/gpj18-r_boys/))
++ R_Coders ([site](https://mef-bda503.github.io/gpj18-r_coders/))
++ Voltran ([site](https://mef-bda503.github.io/gpj18-voltran/))
+
 # Individual Progress Journals
 
 Ordered by first name.
