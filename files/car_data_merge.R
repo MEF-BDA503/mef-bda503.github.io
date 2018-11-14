@@ -33,6 +33,7 @@ file_list <- c(
   m1705 = "https://github.com/MEF-BDA503/pj18-kkyucel/blob/master/week_3/odd_car_sales_data_may_17.rds?raw=true",
   m1704 = "https://github.com/MEF-BDA503/pj18-mkaracabey/blob/master/oto_sales_analysis/data_april_17.rds?raw=true",
   m1703 = "https://github.com/MEF-BDA503/pj18-oktayekici/blob/master/odd_car_sales_data_mar_17.rds?raw=true",
+  m1702 = "https://github.com/MEF-BDA503/pj18-koyuturkc/blob/master/odd_car_sales_data_feb_17.rds?raw=true",
   m1701 = "https://github.com/MEF-BDA503/pj18-baturusta/blob/master/files/odd_car_sales_data_jan_17.rds?raw=true",
   # 2016
   m1612 = "https://github.com/MEF-BDA503/pj18-gokceezeroglu/blob/master/odd_retail_sales_2016_12_2.rds?raw=true",
