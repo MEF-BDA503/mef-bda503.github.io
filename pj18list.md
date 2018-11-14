@@ -5,11 +5,11 @@ Back to [home](https://mef-bda503.github.io)
 Ordered by first name.
 
 + Ahmet Turhal ([site](https://mef-bda503.github.io/pj18-aturhal/))
-+ Barış Can Tayiz ([site](https://mef-bda503.github.io/pj18-TROLEYBUS/))
++ Barış Can Tayiz ([site](https://mef-bda503.github.io/pj18-Baris-Can-Tayiz/))
 + Batur Usta ([site](https://mef-bda503.github.io/pj18-baturusta/))
 + Büşra Koç ([site](https://mef-bda503.github.io/pj18-busraakoc/))
 + Büşra Aydemir ([site](https://mef-bda503.github.io/pj18-aydemirbusra/))
-+ Can Koyutürk
++ Can Koyutürk ([site](https://mef-bda503.github.io/pj18-koyuturkc/))
 + Efehan Danışman ([site](https://mef-bda503.github.io/pj18-efehandanisman/))
 + Emre Kemerci ([site](https://mef-bda503.github.io/pj18-EmreKemerci/))
 + Ferdi Ateşin ([site](https://mef-bda503.github.io/pj18-ferdiatesin/))
@@ -31,7 +31,7 @@ Ordered by first name.
 + Orkun Berk Yüzbaşıoğlu ([site](https://mef-bda503.github.io/pj18-orkunberkyuzbasioglu/))
 + Ömer Bayır ([site](https://mef-bda503.github.io/pj18-omerbayir/))
 + Ömer Elmasrı ([site](https://mef-bda503.github.io/pj18-elmasriomer/))
-+ Özgür Özdemir
++ Özgür Özdemir ([site](https://mef-bda503.github.io/pj18-ozdemiroz/))
 + Salih Uçar ([site](https://mef-bda503.github.io/pj18-ucarsal/))
 + Serhan Süer ([site](https://mef-bda503.github.io/pj18-SerhanSuer/))
 + Tarık Özçelik ([site](https://mef-bda503.github.io/pj18-TarikOzcelik81/))
