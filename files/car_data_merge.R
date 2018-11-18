@@ -33,13 +33,14 @@ file_list <- c(
   m1705 = "https://github.com/MEF-BDA503/pj18-kkyucel/blob/master/week_3/odd_car_sales_data_may_17.rds?raw=true",
   m1704 = "https://github.com/MEF-BDA503/pj18-mkaracabey/blob/master/oto_sales_analysis/data_april_17.rds?raw=true",
   m1703 = "https://github.com/MEF-BDA503/pj18-oktayekici/blob/master/odd_car_sales_data_mar_17.rds?raw=true",
+  # m1702
   m1701 = "https://github.com/MEF-BDA503/pj18-baturusta/blob/master/files/odd_car_sales_data_jan_17.rds?raw=true",
   # 2016
   m1612 = "https://github.com/MEF-BDA503/pj18-gokceezeroglu/blob/master/odd_retail_sales_2016_12_2.rds?raw=true",
-  m1611 = "https://github.com/MEF-BDA503/pj18-TarikOzcelik81/blob/master/odd_car_sales_data_nov_16.rds?raw=true",
-  m1610 = "https://github.com/MEF-BDA503/pj18-Leyla.Yigit/blob/master/FILES/car_data_oct_16_inst.rds?raw=true",
-  # m1609
-  m1608 = "https://github.com/MEF-BDA503/pj18-KadirKemal/blob/master/Week2/odd_car_sales_data_agu_16.rds?raw=true",
+  m1611 = "https://github.com/MEF-BDA503/pj18-TarikOzcelik81/blob/master/odd_car_sales_data_nov_16_inst.rds?raw=true",
+  m1610 = "https://github.com/MEF-BDA503/pj18-Leyla.Yigit/blob/master/car_data_oct_16_inst.rds?raw=true",
+  m1609 = "https://github.com/MEF-BDA503/pj18-mehmetakk/blob/master/car_data_sep_16.rds?raw=true",
+  m1608 = "https://github.com/MEF-BDA503/pj18-KadirKemal/blob/master/Week2/odd_car_sales_data_aug_16_inst.rds?raw=true",
   m1607 = "https://github.com/MEF-BDA503/pj18-ozenm/blob/master/odd_car_sales_data_jul_16.rds?raw=true",
   # m1606
   m1605 = "https://github.com/MEF-BDA503/pj18-aydemirbusra/blob/master/odd/data_may_16.rds?raw=true",
@@ -54,19 +55,17 @@ main_data <- tibble()
 for(i in 1:length(file_list)){
   print(names(file_list)[i])
   main_data <- bind_rows(main_data,get_new_rds(file_list[i]))
-
 }
 
 
 
 # Save the final merged RDS file
-saveRDS(main_data,file="~/car_data_aggregate.rds")
-
-# Remove temporary file
-file.remove(tmprds)
+saveRDS(main_data,file="~/Downloads/car_data_aggregate.rds")
 
 ## THE END
 
 ##### APPENDIX: INDIVIDUAL CHECKS
-# aaa <- get_new_rds("https://github.com/MEF-BDA503/pj18-ozdemiroz/blob/master/odd_car_sales_data_feb_16.rds?raw=true")
-# bind_rows(aaa,main_data)
+# aaa <- get_new_rds("https://github.com/MEF-BDA503/pj18-mkerimacar/blob/master/odd_car_sales_data_jan_16.rds?raw=true")
+# main_data <- bind_rows(aaa,main_data) %>% filter(complete.cases(.))
+## main_data <- main_data %>% arrange(desc(year),desc(month))
+## saveRDS(aaa,"~/Downloads/odd_car_sales_data_aug_16_inst.rds")
