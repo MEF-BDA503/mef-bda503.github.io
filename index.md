@@ -3,8 +3,15 @@
 + Syllabus ([download](files/bda_503_syllabus_fall_2018.pdf))
 + [Progress Journals](pj18list.html)
 
+# Week 5 (Nov 28, 2018)
+
++ Tentative. Guest lecture by [Mustafa Onan, CFA](https://www.linkedin.com/in/onanmustafa/) from Sabancı Holding.
++ Machine Learning Part I.a ([html](archive/fall17/files/intro_to_ml.html) \| [pdf](archive/fall17/files/intro_to_ml.pdf))
++ Bonus: Introduction to Cloud Computing. Make sure you get the [GitHub Student Developer Pack](https://education.github.com/pack). Participation is completely voluntary.
+
 # Week 4 (Nov 14, 2018)
 
++ (Nov 20, 2018) All ODD car sales data can be found in [here](files/car_data_aggregate.rds)
 + Guest lecture by [Mehmet Memecan](https://www.linkedin.com/in/mehmet-memecan-1187784b/), Co-Founder and CEO of Tarfin, an fintech company specialized in agricultural inputs financing.
 + This week we are going to learn about `shiny` and `reticulate` packages. Remember reticulate requires Python installed. Make sure these packages are working on your computers.
   + Package installations [link](https://gist.github.com/berkorbay/5793188b7ebfe013ce64703179f9aa01)
