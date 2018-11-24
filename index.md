@@ -8,6 +8,7 @@
 + Tentative. Guest lecture by [Mustafa Onan, CFA](https://www.linkedin.com/in/onanmustafa/) from Sabancı Holding.
 + Machine Learning Part I.a ([html](archive/fall17/files/intro_to_ml.html) \| [pdf](archive/fall17/files/intro_to_ml.pdf))
 + Bonus: Introduction to Cloud Computing. Make sure you get the [GitHub Student Developer Pack](https://education.github.com/pack). Participation is completely voluntary.
++ Project Guidelines [html](files/project_guidelines.html) \| [pdf](files/project_guidelines.pdf)
 
 # Week 4 (Nov 14, 2018)
 
