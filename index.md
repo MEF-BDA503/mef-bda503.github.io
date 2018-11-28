@@ -3,13 +3,26 @@
 + Syllabus ([download](files/bda_503_syllabus_fall_2018.pdf))
 + [Progress Journals](pj18list.html)
 
+# Week 7 (Dec 26, 2018)
+
++ Presentations!
+
+# Week 6 (Dec 12, 2018)
+
++ Machine Learning Part II ([html](archive/fall17/files/intro_to_ml_2.html) \| [pdf](archive/fall17/files/intro_to_ml_2.pdf))
++ Machine Learning Parts Exercises (ps. not assignments)
+  + Exercise 1: Esoph and Youth Survey ([html](archive/fall17/files/assignment_youth_survey.html) \| [pdf](archive/fall17/files/assignment_youth_survey.pdf))
+  + Exercise 2: Spam Data ([html](archive/fall17/files/assignment_spam_data.html) \| [pdf](archive/fall17/files/assignment_spam_data.pdf))
+  + Exercise 3: Diamonds Data ([html](archive/fall17/files/assignment_diamonds_data.html) \| [pdf](archive/fall17/files/assignment_diamonds_data.pdf))
+
+
 # Week 5 (Nov 28, 2018)
 
-+ Tentative. Guest lecture by [Mustafa Onan, CFA](https://www.linkedin.com/in/onanmustafa/) from Sabancı Holding.
-+ Machine Learning Part I.a ([html](archive/fall17/files/intro_to_ml.html) \| [pdf](archive/fall17/files/intro_to_ml.pdf))
++ Guest lecture by [Mustafa Onan, CFA](https://www.linkedin.com/in/onanmustafa/) from Sabancı Holding.
++ Machine Learning Part I ([html](archive/fall17/files/intro_to_ml.html) \| [pdf](archive/fall17/files/intro_to_ml.pdf))
 + Bonus: Introduction to Cloud Computing. Make sure you get the [GitHub Student Developer Pack](https://education.github.com/pack). Participation is completely voluntary.
   + Create an account in [Digital Ocean](https://www.digitalocean.com/)
-  + Check this [old tutorial](http://berkorbay.me/documents/R_on_cloud.html) 
+  + Check this [old tutorial](http://berkorbay.me/documents/R_on_cloud.html)
   + Magic command: `docker run -e USER=rstudio -e PASSWORD=rstudio2 -d -p 8787:8787 rocker/tidyverse`
 + Project Guidelines [html](files/project_guidelines.html) \| [pdf](files/project_guidelines.pdf)
 
