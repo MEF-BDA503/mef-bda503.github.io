@@ -10,7 +10,7 @@ Ordered by group name.
 + Group Four ([site](https://mef-bda503.github.io/gpj18-group_four/))
 + R_Boys ([site](https://mef-bda503.github.io/gpj18-r_boys/))
 + R_Coders ([site](https://mef-bda503.github.io/gpj18-r_coders/))
-+ Voltran ([site](https://mef-bda503.github.io/gpj18-voltran/))
++ VoltRan ([site](https://mef-bda503.github.io/gpj18-voltran/))
 
 # Individual Progress Journals
 
