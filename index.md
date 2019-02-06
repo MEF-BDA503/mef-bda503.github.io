@@ -9,6 +9,7 @@
 
 # Week 6 (Dec 12, 2018)
 
++ Guest lecture by [Uğur Kemal Solak](https://www.linkedin.com/in/ugur-kemal-solak-b33a331a/) from Accenture Turkey.
 + Machine Learning Part II ([html](archive/fall17/files/intro_to_ml_2.html) \| [pdf](archive/fall17/files/intro_to_ml_2.pdf))
 + Machine Learning Parts Exercises (ps. not assignments)
   + Exercise 1: Esoph and Youth Survey ([html](archive/fall17/files/assignment_youth_survey.html) \| [pdf](archive/fall17/files/assignment_youth_survey.pdf))
