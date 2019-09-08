@@ -87,7 +87,7 @@ This is a very easy one. The homework is about standardizing and merging data. I
 + Some base R exercises ([html](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma.html))
 + [RMarkdown](https://rmarkdown.rstudio.com/)
 + Datacamp Homework (Don't forget to accept your invitations)
-+ RMarkdown Homework: Prepare an RMarkdown document. Introduce yourself in one paragraph (Your name surname, your work, your data interests and how you (plan to) use data science skills in your current/future work). Watch some UseR-2019 videos ([Link](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/videos)) and write one of them down on your RMarkdown document. Find 3 R posts relevant to your work and describe them. Get the html output and put it in your progress journal repository. Provide link from your Progress Journal page. ([Click for example](https://boun-etm58d.github.io/pj-SezginYildiz/Assignment1.html))
++ **RMarkdown Homework:** Prepare an RMarkdown document. Introduce yourself in one paragraph (Your name surname, your work, your data interests and how you (plan to) use data science skills in your current/future work). Watch some UseR-2019 videos ([Link](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/videos)) and write one of them down on your RMarkdown document. Find 3 R posts relevant to your work and describe them. Get the html output and put it in your progress journal repository. Provide link from your Progress Journal page. ([Click for example](https://boun-etm58d.github.io/pj-SezginYildiz/Assignment1.html))
 + Form teams of 2-3 and prepare for major projects (we will discuss in week 2).
 
 
@@ -96,6 +96,11 @@ This is a very easy one. The homework is about standardizing and merging data. I
 + Tutorial: Initializing Your Progress Journal ([download](files/initial_bonus_tutorial.pdf))
 + Some light reading about the previous year. ([Read on Blog](https://medium.com/@berk.orbay/how-to-teach-an-awesome-data-analysis-course-922f5e5651c0))
 + Some light reading about instructor's view on R. ([Read on Blog](https://medium.com/yes-r-can/why-r-stats-is-the-best-2c09d77de25b))
+
+## Course Archive
+
++ [Fall 2017](https://mef-bda503.github.io/archive/fall17/)
++ [Fall 2018](https://mef-bda503.github.io/archive/fall18/)
 
 # Miscellaneous
 
@@ -186,8 +191,3 @@ For audiovisual learners, some webinars [here](https://www.rstudio.com/resources
 + [RStudio Cheat Sheets (Base R, dplyr, ggplot2, RMarkdown etc.)](https://www.rstudio.com/resources/cheatsheets/)
 + [R Reference Cards](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 + [data.table Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/datatable_Cheat_Sheet_R.pdf)
-
-## Course Archive
-
-+ [Fall 2017](https://mef-bda503.github.io/archive/fall17/)
-+ [Fall 2018](https://mef-bda503.github.io/archive/fall18/)
