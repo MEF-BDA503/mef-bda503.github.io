@@ -1,7 +1,7 @@
 # Course Essentials
 
 + Syllabus ([download](files/bda_503_syllabus_fall_2019.pdf))
-<!-- + [Progress Journals](pj19list.html) -->
++ [Progress Journals](pj19list.html)
 
 <!-- # Week 7 (Dec 26, 2018)
 
@@ -95,6 +95,9 @@ This is a very easy one. The homework is about standardizing and merging data. I
 + Tutorial: Initializing Your Progress Journal ([download](files/initial_bonus_tutorial.pdf))
 + Some light reading about the previous year. ([Read on Blog](https://medium.com/@berk.orbay/how-to-teach-an-awesome-data-analysis-course-922f5e5651c0))
 + Some light reading about instructor's view on R. ([Read on Blog](https://medium.com/yes-r-can/why-r-stats-is-the-best-2c09d77de25b))
+
+This course benefits from **DataCamp for the Classroom** program. See details [here](https://www.datacamp.com/groups/education).
+
 
 ## Course Archive
 
