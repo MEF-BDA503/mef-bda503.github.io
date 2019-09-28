@@ -10,6 +10,7 @@ Ordered by first name.
 + Berk Çakar ([site](https://pjournal.github.io/mef03-cakarb/))
 + Bilgehan Kıran ([site](https://pjournal.github.io/mef03-bilgehankiran/))
 + Burcu Balkan ([site](https://pjournal.github.io/mef03-balkanburcu/))
++ Burcu Demirgülle ([site](https://pjournal.github.io/mef03-bdemirgulle/))
 + Bülent Büyük ([site](https://pjournal.github.io/mef03-BulentBuyuk/))
 + Civan Şık ([site](https://pjournal.github.io/mef03-scivan/))
 + Dost Karaahmetli ([site](https://pjournal.github.io/mef03-karaahmetlid/))
