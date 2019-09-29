@@ -60,14 +60,16 @@
 + Perform an initial exploratory analysis on the data and post the outcome html on your gpj.
 + Email the instructor the link of your gpj18 webpage.
 
-# Week 2 (Oct 17, 2018)
+-->
 
-+ Some base R exercises (Solutions!) ([html](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma_cozumler.html))
-+ Tidyverse Introduction: dplyr ([html](https://mef-bda503.github.io/archive/fall17/files/tidyverse_recap_p1.html) \|[pdf](https://mef-bda503.github.io/archive/fall17/files/tidyverse_recap_p1.pdf))
+# Week 2 (Oct 2, 2019)
+
++ Tidyverse Introduction: dplyr ([html](files/dplyr_elections.html))
++ Alternative Tutorial (previous year's) ([html](https://mef-bda503.github.io/archive/fall17/files/tidyverse_recap_p1.html) \|[pdf](https://mef-bda503.github.io/archive/fall17/files/tidyverse_recap_p1.pdf))
 + dplyr join operations [1](http://stat545.com/bit001_dplyr-cheatsheet.html), [2](https://dplyr.tidyverse.org/reference/join.html)
 + Bonus Material (Program coordinator's recommendation): [EdX - The Analytics Edge](https://courses.edx.org/courses/course-v1:MITx+15.071x+3T2018/course/)
 
-##  ODD Assignment
+<!-- ##  ODD Assignment
 
 + ODD Assignment Example ([html](files/odd_example.html))
 
@@ -77,13 +79,13 @@ This is a very easy one. The homework is about standardizing and merging data. I
 + Choose a month (preferably most recent that is not taken) and write your name and email on it.
 + Go to ODD site and download the data. Rename and add it to your github repository.
 + Follow the example and write the RMarkdown document that will download the raw excel from your repository, manipulate it in the desired format (check the example) and save it in an RDS file.
-+ Add some analysis to the RMarkdown document using your dplyr skills.
--->
++ Add some analysis to the RMarkdown document using your dplyr skills. -->
+
 # Week 1 (Sep 18, 2019)
 
 + [Cheat Sheet Heaven](https://www.rstudio.com/resources/cheatsheets/)
 + Introduction to R ([html](archive/fall17/files/01_R_Basics.html) \| [pdf](archive/fall17/files/01_R_Basics.pdf))
-+ Some base R exercises ([html](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma.html))
++ Some base R exercises ([html](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma.html)) ([Solutions!](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma_cozumler.html))
 + [RMarkdown](https://rmarkdown.rstudio.com/)
 + Datacamp Homework (Don't forget to accept your invitations)
 + **RMarkdown Homework:** Prepare an RMarkdown document. Introduce yourself in one paragraph (Your name surname, your work, your data interests and how you (plan to) use data science skills in your current/future work). Watch some UseR-2019 videos ([Link](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/videos)) and write one of them down on your RMarkdown document. Find 3 R posts relevant to your work and describe them. Get the html output and put it in your progress journal repository. Provide link from your Progress Journal page. ([Click for example](https://boun-etm58d.github.io/pj-SezginYildiz/Assignment1.html))
