@@ -62,6 +62,13 @@
 
 -->
 
+# Week 3 (Oct 16, 2019)
+
++ Revision week
++ ggplot2 ([html](files/ggplot2_elections.html))
++ ggplot2 Extra Material ([html](archive/fall18/files/ggplot2_lecture.html) \| [pdf](archive/fall18/files/ggplot2_lecture.pdf))
++ (Extra) Lubridate ([Link](https://lubridate.tidyverse.org/))
+
 # Week 2 (Oct 2, 2019)
 
 + Tidyverse Introduction: dplyr ([html](files/dplyr_elections.html))
