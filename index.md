@@ -62,6 +62,25 @@
 
 -->
 
+# Week 4 (Oct 30, 2019)
+
++ This week we will see `shiny` to create interactive dashboards on web browsers ([official tutorial](https://shiny.rstudio.com/tutorial/)). Also see the Shiny Cheatsheet from RStudio.
+
+Both assignments will be on a first come first graded basis. It means if you found a good idea and submitted an analysis before all other teams any team with not novel ideas will not get extra points. With too much similarity, early team (by GitHub submission time) will get all the credit and points.
+
++ **ODD Assignment (Group)**
+  + Gather car sales data from [ODD website](http://www.odd.org.tr/web_2837_1/neuralnetwork.aspx?type=36) from 2016 until September 2019. You can check [example code to gather ODD data](archive/fall18/files/odd_example.html) and refer to course archive for similar analysis.
+  + Do 3 different analyses and draw at least one plot using dplyr and ggplot2 in an RMarkdown file.
+  + Upload the file in your Group Progress Journal.
++ **EGM Assignment (Group)**
+  + Gather BES (Bireysel Emeklilik Sistemi) fundamentals data (BES Temel Göstergeler) from [EGM website](https://www.egm.org.tr/bilgi-merkezi/istatistikler/) until 31 July 2019 (use excel link given below the table). Use at least two years past data.
+  + Do 3 different analyses and draw at least one plot using dplyr and ggplot2 in an RMarkdown file.
+  + Upload the file in your Group Progress Journal.
++ **BKM Assignment (Individual)**
+  + Gather data from [BKM Sektörel Gelişim](https://bkm.com.tr/secilen-aya-ait-sektorel-gelisim/?filter_year=2019&filter_month=6&List=Listele) reports (tip: use rvest as we did in class) and analyze progression of different sectors. Put at least two analyses and one plot using dplyr and ggplot2 in an RMarkdown file.
+  + Upload the file in your Progress Journal.
+
+
 # Week 3 (Oct 16, 2019)
 
 + Revision week
