@@ -64,20 +64,22 @@
 
 # Week 4 (Oct 30, 2019)
 
-+ This week we will see `shiny` to create interactive dashboards on web browsers ([official tutorial](https://shiny.rstudio.com/tutorial/)). Also see the Shiny Cheatsheet from RStudio.
++ This week we will see `shiny` to create interactive dashboards on web browsers ([official tutorial](https://shiny.rstudio.com/tutorial/)). Also see the Shiny Cheatsheet from RStudio. (Bonus: Check <shinyapps.io> to deploy your shiny apps)
++ Check lubridate for a date-time library. You will love `parse_date_time`, `as_date`, `as_datetime` functions. It will not be taught in the classroom but it is great to know.
++ [Project Guidelines](files/project_guidelines.html)
 
-Both assignments will be on a first come first graded basis. It means if you found a good idea and submitted an analysis before all other teams any team with not novel ideas will not get extra points. With too much similarity, early team (by GitHub submission time) will get all the credit and points.
+Collaboration on assignments is endorsed but all assignments will be on a first come first graded basis. It means if you found a good idea and submitted an analysis before all other teams any team with not novel ideas will not get extra points (i.e. please do not copy-paste). With too much similarity, the early team (by GitHub submission time) will get all the credit and points. Same principle also applies for previous years' assignments, they are earlier.
 
-+ **ODD Assignment (Group)**
++ **ODD Assignment (Group)** (Deadline Nov. 5)
   + Gather car sales data from [ODD website](http://www.odd.org.tr/web_2837_1/neuralnetwork.aspx?type=36) from 2016 until September 2019. You can check [example code to gather ODD data](archive/fall18/files/odd_example.html) and refer to course archive for similar analysis.
   + Do 3 different analyses and draw at least one plot using dplyr and ggplot2 in an RMarkdown file.
   + Upload the file in your Group Progress Journal.
-+ **EGM Assignment (Group)**
++ **EGM Assignment (Group)** (Deadline Nov. 8)
   + Gather BES (Bireysel Emeklilik Sistemi) fundamentals data (BES Temel Göstergeler) from [EGM website](https://www.egm.org.tr/bilgi-merkezi/istatistikler/) until 31 July 2019 (use excel link given below the table). Use at least two years past data.
   + Do 3 different analyses and draw at least one plot using dplyr and ggplot2 in an RMarkdown file.
   + Upload the file in your Group Progress Journal.
-+ **BKM Assignment (Individual)**
-  + Gather data from [BKM Sektörel Gelişim](https://bkm.com.tr/secilen-aya-ait-sektorel-gelisim/?filter_year=2019&filter_month=6&List=Listele) reports (tip: use rvest as we did in class) and analyze progression of different sectors. Put at least two analyses and one plot using dplyr and ggplot2 in an RMarkdown file.
++ **BKM Assignment (Individual)** (Deadline Nov. 11)
+  + Gather data from [BKM Sektörel Gelişim](https://bkm.com.tr/secilen-aya-ait-sektorel-gelisim/?filter_year=2019&filter_month=6&List=Listele) reports (tip: use [rvest](https://www.rdocumentation.org/packages/rvest/versions/0.3.2/topics/html_table) as we did in class) and analyze progression of different sectors. Put at least two analyses and one plot using dplyr and ggplot2 in an RMarkdown file.
   + Upload the file in your Progress Journal.
 
 
