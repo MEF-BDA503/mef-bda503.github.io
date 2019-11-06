@@ -1,5 +1,15 @@
 Back to [home](https://pjournal.github.io)
 
+# Group Progress Journals
+
++ Kar'R'sızlar ([site](https://pjournal.github.io/mef03g-Kar-R-sizlar/))
++ Müjde 'R' ([site](https://pjournal.github.io/mef03g-mujde-r/))
++ Polat Alemd-R ([site](https://pjournal.github.io/mef03g-polatalemd-r/))
++ 'R' mut ([site](https://pjournal.github.io/mef03g-r-mut/))
++ Road RunneR ([site](https://pjournal.github.io/mef03g-road-runner/))
++ ShineRs ([site](https://pjournal.github.io/mef03g-ShineRs/))
++ Spo'R'ify ([site](https://pjournal.github.io/mef03g-spo-R-ify/))
+
 # Individual Progress Journals
 
 Ordered by first name.
