@@ -62,6 +62,10 @@
 
 -->
 
+# Extra week (Dec 26, 2019)
+
++ Introduction to machine learning (details soon...)
+
 # Week 7 (Dec 11, 2019)
 
 + Presentations!
