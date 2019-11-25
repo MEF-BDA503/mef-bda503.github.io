@@ -62,7 +62,7 @@
 
 -->
 
-# Extra week (Dec 26, 2019)
+# Extra week (Dec 25, 2019)
 
 + Introduction to machine learning (details soon...)
 
@@ -81,7 +81,7 @@
 
 # Week 5 (Nov 13, 2019)
 
-+ Postponed to Dec 26, 2019
++ Postponed to Dec 25, 2019
 
 # Week 4 (Oct 30, 2019)
 
