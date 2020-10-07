@@ -1,3 +1,6 @@
+
++ [Assignment 1](deletetest.html)
+
 # Course Essentials
 
 + [Introduction to BDA503](files/introduction/)
