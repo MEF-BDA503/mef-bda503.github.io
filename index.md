@@ -1,7 +1,7 @@
 # Course Essentials
 
 + [Introduction to BDA503](files/introduction/)
-<!-- + [Progress Journals](pj_list) -->
++ [Progress Journals](pj_list)
 <!-- + [Deadlines](deadlines) -->
 
 <!-- 
