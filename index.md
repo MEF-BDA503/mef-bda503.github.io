@@ -1,115 +1,136 @@
 # Course Essentials
 
-+ Syllabus ([download](files/bda_503_syllabus_fall_2019.pdf))
-+ [Progress Journals](pj19list.html)
++ [Introduction to BDA503](files/introduction/)
+<!-- + [Progress Journals](pj_list) -->
+<!-- + [Deadlines](deadlines) -->
 
-# Extra week (Dec 25, 2019)
+<!-- 
+**Group Projects**
 
-+ Machine Learning Part I ([html](archive/fall17/files/intro_to_ml.html) \| [pdf](archive/fall17/files/intro_to_ml.pdf))
-+ Bonus: Introduction to Cloud Computing. Make sure you get the [GitHub Student Developer Pack](https://education.github.com/pack). Participation is completely voluntary.
-  + Create an account in [Digital Ocean](https://www.digitalocean.com/)
-  + Check this [old tutorial](http://berkorbay.github.io/documents/R_on_cloud.html)
-  + Magic command: `docker run -e USER=rstudio -e PASSWORD=rstudio2 -d -p 8787:8787 rocker/tidyverse`
-+ Machine Learning Part II ([html](archive/fall17/files/intro_to_ml_2.html) \| [pdf](archive/fall17/files/intro_to_ml_2.pdf))
-+ Machine Learning Parts Exercises (ps. not assignments)
-  + Exercise 1: Esoph and Youth Survey ([html](archive/fall17/files/assignment_youth_survey.html) \| [pdf](archive/fall17/files/assignment_youth_survey.pdf))
-  + Exercise 2: Spam Data ([html](archive/fall17/files/assignment_spam_data.html) \| [pdf](archive/fall17/files/assignment_spam_data.pdf))
-  + Exercise 3: Diamonds Data ([html](archive/fall17/files/assignment_diamonds_data.html) \| [pdf](archive/fall17/files/assignment_diamonds_data.pdf))
++ [Group project guidelines](files/project_guidelines.html).
++ [Bonus: Group Work - R Tutorials](files/group_tutorials).
 
-# Week 7 (Dec 11, 2019)
 
-+ Presentations!
+# Week 6 (Sep 8 & 11, 2020)
 
-# Week 6 (Nov 27, 2019)
+Presentations!
 
-+ Main topic: Data joins with dplyr
-+ Exercise data: ATP World Tour 2017 Tennis data ([RData](files/atp_tennis_data_2017.RData)) ([Source](https://github.com/serve-and-volley/atp-world-tour-tennis-data/))
+**Guest Lecture** [Serhat Keçici](https://www.linkedin.com/in/serhat-ke%C3%A7ici-20240335/) Cognitive and Analytics Practice Leader at [IBM](https://www.ibm.com/tr-tr)
+**Guest Lecture** [Kutay Güneştepe](https://www.linkedin.com/in/kutay-g%C3%BCne%C5%9Ftepe-58896559/) Senior Expert at ITU ARI Technopolis and ITU Magnet Manager [ITU Magnet - ITU ARI Technopolis](http://itumagnet.com/)
+
+
+# Week 5 (Sep 1 & 3, 2020)
+
+**Guest Lecture** [Merve Yılmaz](https://www.linkedin.com/in/mervyilmaz/) Account Manager at [Amazon (Web Services)](https://aws.amazon.com/)
+
++ Machine Learning Part I ([html](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml.pdf))
++ Machine Learning Part II ([html](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml_2.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml_2.pdf))
+
+**In Class Exercise**: Check the [NYC Airbnb Data Kaggle Page](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) for notebooks applying machine learning algorithms to the data. Pick one notebook, give the link, and explain the process steps on your Progress Journals (you do not need to write code).
+
+**Assignment 3 (individual)** (Due Date: September 10, 2020 23:59) These are 3 individual data sets / assignments. You may do all of them, but choose one to report. Add the assignment to your individual Progress Journals. If you add more than one assignment to your PJ, state the one you want to be graded. (p.s. Those data sets are popular on internet. If you find an inspiration, please state it in a references section with links.)
+  + Assginment 3.1: Esoph and Youth Survey ([html](https://mef-bda503.github.io/archive/fall17/files/assignment_youth_survey.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/assignment_youth_survey.pdf))
+  + Assginment 3.2: Spam Data ([html](https://mef-bda503.github.io/archive/fall17/files/assignment_spam_data.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/assignment_spam_data.pdf))
+  + Assginment 3.3: Diamonds Data ([html](https://mef-bda503.github.io/archive/fall17/files/assignment_diamonds_data.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/assignment_diamonds_data.pdf))
+
+## Resources
+
++ **[Introduction to Statistical Learning](files/ISLR Seventh Printing.pdf)**
++ **[Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)**
+
+# Week 4 (Aug 25 & 27, 2020)
+
++ [rvest Mini Tutorial](files/rvest_mini_tutorial.html)
+  + In Class Exercise: Try the exercises at the end of the rvest mini tutorial.
+
 + [Joins tutorial](https://stat545.com/join-cheatsheet.html)
-+ Guests
-  + [Melis Bilgiç Aksarı](https://www.linkedin.com/in/melisaksari/) from MTX Commodities
-  + [Burak Gökçe](https://www.linkedin.com/in/burakgokce/) from Engie
+  + [Mini live lecture](files/joins_tutorial_live_lecture.html)
++ [Mini tutorial on pivot longer/wider](files/short_tutorial_on_pivot_wider_longer.html)
++ Exercise data: ATP World Tour 2017 Tennis data ([RData](https://mef-bda503.github.io/files/atp_tennis_data_2017.RData)) ([Source](https://github.com/serve-and-volley/atp-world-tour-tennis-data/)) ([Example analysis](https://pjournal.github.io/mef03-karaahmetlid/ATP2017.html))
+  + In-class exercise ([see the desired outputs on dummy data](files/tennis_exercise_output.png))
+    1. Create a matrix (or data frame) of "top 20" (top winners by quantity) players with the number matches among themselves as the value. Plot a heatmap of this matrix.
+    2. Create a matrix (or data frame) of top 20 players with win percentages (rows are winners).
+    3. Do the same for top 5 countries.
++ In-class exercise: [Top 3 Industrial Engineering programs rds data](files/top_3_IE.rds). (Source: [BOUN](https://yokatlas.yok.gov.tr/lisans.php?y=102210295), [ITU](https://yokatlas.yok.gov.tr/lisans.php?y=105510662), [METU](https://yokatlas.yok.gov.tr/lisans.php?y=108410363))
+    + This data set is taken from YÖK Atlas, containing partial information about preferences of students placed in respective programs in university entrance examination of 2019. Data set is a list consisting of 3 IE programs (BOUN-IE, ITU-IE and METU-IE). There are two data sets under each program: `prog_prefs` and `city_prefs`.
+    + `prog_prefs` ([example data](https://yokatlas.yok.gov.tr/lisans-panel.php?y=105510662&p=1340b&pr=1)) contains the names and preference frequency of programs preferred by those placed in that IE program. For instance, there are 5 preferences for Dentistry (Diş Hekimliği) by the students placed in ITU-IE (a little context: Each student has a preference list and they can prefer up to 24 programs, so there are more preference quantities than students placed in that program).
+    + `city_prefs` ([example data](https://yokatlas.yok.gov.tr/lisans-panel.php?y=105510662&p=1330&pr=1)) is similar but for cities.
+    + Analyze those programs for similarities and differences
+      1. Find the top 3 program preferences other than IE which all three programs have in common. (e.g. "Candidates of all 3 universities chose Mechanical Engineering as their second most popular choice.")
+      2. Find the program preferences which are exclusive to a single university but not common in other universities (e.g. "Candidates of BOUN significantly preferred Economics but same pattern cannot be seen in ITU and METU")
+      3. Do some analyses and visualizations of your own.
 
-# Week 5 (Nov 13, 2019)
+# Week 3 (Aug 18 & 20, 2020)
 
-+ Postponed to Dec 25, 2019
+**Guest Lecture** [İlker Kurtuluş](https://www.linkedin.com/in/ilker-kurtulus/) Senior Data Scientist at [Tarfin](https://tarfin.com/)
 
-# Week 4 (Oct 30, 2019)
++ This week we will learn about `shiny` to create interactive dashboards on web browsers ([official tutorial](https://shiny.rstudio.com/tutorial/)). Also see the [Shiny Cheatsheet](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf) from RStudio. (Bonus: Check <https://shinyapps.io> to deploy your shiny apps)
+  + [Extra tutorial on R Shiny (Turkish)](https://acikenerji.github.io/R-shiny/)
+  + [Mastering Shiny](https://mastering-shiny.org/)
+  + [How to deploy to shinyapps.io](https://shiny.rstudio.com/articles/shinyapps.html)
++ Shiny in-class exercise [starter code](https://gist.github.com/berkorbay/5793188b7ebfe013ce64703179f9aa01).
++ Example run code from a Shiny application `shiny::runGitHub("BOUN-IE48A/boun-ie48a.github.io",subdir="files/shinyExample/")`
 
-+ This week we will see `shiny` to create interactive dashboards on web browsers ([official tutorial](https://shiny.rstudio.com/tutorial/)). Also see the Shiny Cheatsheet from RStudio. (Bonus: Check <shinyapps.io> to deploy your shiny apps)
-+ Check lubridate for a date-time library. You will love `parse_date_time`, `as_date`, `as_datetime` functions. It will not be taught in the classroom but it is great to know.
-+ [Project Guidelines](files/project_guidelines.html)
++ [Making an R Package: A tutorial](files/making_an_r_package.html)
+  + Extra reference: [R Package Primer](https://kbroman.org/pkg_primer/) by Karl Broman
 
-+ Guests
-  + [Taner Doğuç](https://www.linkedin.com/in/tanerdoguc/) from QNB Finansbank
-  + [Elif Tokatlı](https://www.linkedin.com/in/elif-tokatl%C4%B1-3314a966/) from QNB Finansbank
+**Group Assignment: New York City Airbnb Open Data - Kaggle** (Due Date: August 30, 2020 23:59)
 
-Collaboration on assignments is endorsed but all assignments will be on a first come first graded basis. It means if you found a good idea and submitted an analysis before all other teams any team with not novel ideas will not get extra points (i.e. please do not copy-paste). With too much similarity, the early team (by GitHub submission time) will get all the credit and points. Same principle also applies for previous years' assignments, they are earlier.
+"Kaggle is an online community of data scientists and machine learning practitioners." - [Wikipedia](https://en.wikipedia.org/wiki/Kaggle). Your assignment is to analyze a data set from Kaggle.
 
-+ **ODD Assignment (Group)** (Deadline Nov. 5)
-  + Gather car sales data from [ODD website](http://www.odd.org.tr/web_2837_1/neuralnetwork.aspx?type=36) from 2016 until September 2019. You can check [example code to gather ODD data](archive/fall18/files/odd_example.html) and refer to course archive for similar analysis.
-  + Do 3 different analyses and draw at least one plot using dplyr and ggplot2 in an RMarkdown file.
-  + Upload the file in your Group Progress Journal.
-+ **EGM Assignment (Group)** (Deadline Nov. 8)
-  + Gather BES (Bireysel Emeklilik Sistemi) fundamentals data (BES Temel Göstergeler) from [EGM website](https://www.egm.org.tr/bilgi-merkezi/istatistikler/) until 31 July 2019 (use excel link given below the table). Use at least two years past data.
-  + Do 3 different analyses and draw at least one plot using dplyr and ggplot2 in an RMarkdown file.
-  + Upload the file in your Group Progress Journal.
-+ **BKM Assignment (Individual)** (Deadline Nov. 11)
-  + Gather data from [BKM Sektörel Gelişim](https://bkm.com.tr/secilen-aya-ait-sektorel-gelisim/?filter_year=2019&filter_month=6&List=Listele) reports (tip: use [rvest](https://www.rdocumentation.org/packages/rvest/versions/0.3.2/topics/html_table) as we did in class) and analyze progression of different sectors. Put at least two analyses and one plot using dplyr and ggplot2 in an RMarkdown file.
-  + Upload the file in your Progress Journal.
+1. Download New York City Airbnb Open Data csv file from [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) convert it to and rds file.
+2. Prepare an analysis with dplyr + ggplot2 + rmarkdown and upload html (+pdf if you like) output to your Group Progress Journals.
+3. Prepare a Shiny app and upload to your Group Progress Journals which we can directly call with a single command of `shiny::runGitHub` (important!).
+
++ Feel free to explore kernels for inspiration. If you include direct code copy pastes, kindly provide references with name and link. Have some original code (at least 50%) as well.
++ You are welcome to upload your Rmd kernel to Kaggle. If you do, please add it to your GPJ with a text and link.
 
 
-# Week 3 (Oct 16, 2019)
+# Week 2 (Aug 11 & 13, 2020)
 
-+ Revision week
-+ ggplot2 ([html](files/ggplot2_elections.html))
-+ ggplot2 Extra Material ([html](archive/fall18/files/ggplot2_lecture.html) \| [pdf](archive/fall18/files/ggplot2_lecture.pdf))
-+ (Extra) Lubridate ([Link](https://lubridate.tidyverse.org/))
+**Guest Lecture** [Burcu Yılmaz](https://www.linkedin.com/in/burcu-yilmaz-47944a57/) Data Science and Customer Experience Lead at [QNBEYOND](https://www.qnbeyond.com)
 
-# Week 2 (Oct 2, 2019)
+`dplyr` has undergone significant changes in version 1.0.0. You might want to update. See all changes [from this link](https://www.tidyverse.org/tags/dplyr-1-0-0/).
 
-+ Tidyverse Introduction: dplyr ([html](files/dplyr_elections.html))
-+ Alternative Tutorial (previous year's) ([html](https://mef-bda503.github.io/archive/fall17/files/tidyverse_recap_p1.html) \|[pdf](https://mef-bda503.github.io/archive/fall17/files/tidyverse_recap_p1.pdf))
-+ dplyr join operations [1](http://stat545.com/bit001_dplyr-cheatsheet.html), [2](https://dplyr.tidyverse.org/reference/join.html)
-+ Bonus Material (Program coordinator's recommendation): [EdX - The Analytics Edge](https://courses.edx.org/courses/course-v1:MITx+15.071x+3T2018/course/)
++ [Introduction to dplyr v1.0.0](files/dplyr_renewable.html)
+  + Extra Material: [Introduction to dplyr with election data](https://mef-bda503.github.io/files/dplyr_elections.html)
+  + Extra Material (in Turkish): [R ile Veri Analizi 101](https://acikenerji.github.io/verianalizi101/)
 
-+ Guest: [Zeynep Küçükçavdar](https://www.linkedin.com/in/zeynep-k%C3%BC%C3%A7%C3%BCk%C3%A7avdar-21975536/) from LC Waikiki
++ [Introduction to ggplot2](files/ggplot2_renewable.html)
+  + Extra Material: [Introduction to ggplot2 with election data](https://mef-bda503.github.io/files/ggplot2_elections.html)
+  + Extra Material: [Introduction to ggplot2 with weather data](https://mef-bda503.github.io/archive/fall18/files/ggplot2_lecture.html)
 
-<!-- ##  ODD Assignment
+**Assignment 2: Electricity Market Prices** (Due Date: August 18, 2020 09:00 / Postponed to August 25, 23:59)
 
-+ ODD Assignment Example ([html](files/odd_example.html))
++ Data source: [EPIAS/EXIST MCP/SMP Page](https://rapor.epias.com.tr/rapor/xhtml/ptfSmfListeleme.xhtml)
++ Assignment: Prepare a report about July 2020's electricity prices using only MCP/SMP data using RMarkdown, dplyr and ggplot2.
+  + Download (1-31) July 2020 data from the source. (There is "download xls/csv" button at the bottom of the table on the left)
+  + Post the RMarkdown HTML output and upload it to your Progress Journal. (You need to give a link on your PJ to your assignment, otherwise it won't be evaluated.)
+  + Use [this tutorial](files/electricity_markets_mini_tutorial) to learn more about the data. -->
 
-This is a very easy one. The homework is about standardizing and merging data. I did most of the work in the example on course webpage. I expect something very similar. Here are the steps. Please try to do it as quick as possible and cooperate with your classmates if you are having any trouble.
+# Week 1 (Oct 7, 2020)
 
-+ Go to the Google Drive Excel sheet that I sent the invites to you.
-+ Choose a month (preferably most recent that is not taken) and write your name and email on it.
-+ Go to ODD site and download the data. Rename and add it to your github repository.
-+ Follow the example and write the RMarkdown document that will download the raw excel from your repository, manipulate it in the desired format (check the example) and save it in an RDS file.
-+ Add some analysis to the RMarkdown document using your dplyr skills. -->
-
-# Week 1 (Sep 18, 2019)
++ [Introduction to BDA503](files/introduction/)
++ **RMarkdown Homework:** Prepare an RMarkdown document. Introduce yourself in one paragraph (Your name surname, your work, your data interests and how you (plan to) use data science skills in your current/future work). Plus, add your Linkedin account link. Watch some UseR-2020 videos ([Main Link](https://user2020.r-project.org/) - [YouTube Link](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg)) and write one of them down on your RMarkdown document. Find 3 R posts relevant to your interests and describe them. Get the html output and put it in your progress journal repository. Provide link from your Progress Journal page. ([Click for example](https://pjournal.github.io/mef03-OzgeBegde/RMarkdown_Homework.html)).
++ Form teams of 5-6 and prepare for major projects (we will discuss in week 2).
 
 + [Cheat Sheet Heaven](https://www.rstudio.com/resources/cheatsheets/)
-+ Introduction to R ([html](archive/fall17/files/01_R_Basics.html) \| [pdf](archive/fall17/files/01_R_Basics.pdf))
-+ Some base R exercises ([html](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma.html)) ([Solutions!](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma_cozumler.html))
-+ [RMarkdown](https://rmarkdown.rstudio.com/)
-+ Datacamp Homework (Don't forget to accept your invitations)
-+ **RMarkdown Homework:** Prepare an RMarkdown document. Introduce yourself in one paragraph (Your name surname, your work, your data interests and how you (plan to) use data science skills in your current/future work). Watch some UseR-2019 videos ([Link](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/videos)) and write one of them down on your RMarkdown document. Find 3 R posts relevant to your work and describe them. Get the html output and put it in your progress journal repository. Provide link from your Progress Journal page. ([Click for example](https://boun-etm58d.github.io/pj-SezginYildiz/Assignment1.html))
-+ Form teams of 4-5 and prepare for major projects (we will discuss in week 2).
++ [Introduction to R](https://pjournal.github.io/files/r_intro/) - Brief Presentation 
++ Introduction to R ([html](https://pjournal.github.io/files/01_R_Basics.html) \| [pdf](https://pjournal.github.io/files/01_R_Basics.pdf))
++ [R Fundamentals Exercises](https://pjournal.github.io/files/R_fundamentals_exercises.html) ([solutions](https://pjournal.github.io/files/R_fundamentals_exercises_solutions.html))
 
+# Week 0
 
-# Week 0 (Sep 11, 2019)
-
-+ Tutorial: Initializing Your Progress Journal ([download](files/initial_bonus_tutorial.pdf))
 + Some light reading about the previous year. ([Read on Blog](https://medium.com/@berk.orbay/how-to-teach-an-awesome-data-analysis-course-922f5e5651c0))
 + Some light reading about instructor's view on R. ([Read on Blog](https://medium.com/yes-r-can/why-r-stats-is-the-best-2c09d77de25b))
++ Some light reading about Progress Journals of previous years. ([Read on Blog](https://medium.com/berk-orbay/student-data-analysis-projects-with-r-729a8529d5a8))
 
 This course benefits from **DataCamp for the Classroom** program. See details [here](https://www.datacamp.com/groups/education).
 
-
 ## Course Archive
 
-+ [Fall 2017](https://mef-bda503.github.io/archive/fall17/)
-+ [Fall 2018](https://mef-bda503.github.io/archive/fall18/)
++ [See all previous similar courses from here](https://berkorbay.github.io/courses/)
++ [Student projects](https://medium.com/berk-orbay/student-data-analysis-projects-with-r-729a8529d5a8)
 
 # Miscellaneous
 
