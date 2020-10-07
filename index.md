@@ -111,7 +111,7 @@ Presentations!
 # Week 1 (Oct 7, 2020)
 
 + [Introduction to BDA503](files/introduction/)
-+ **RMarkdown Homework:** Prepare an RMarkdown document. Introduce yourself in one paragraph (Your name surname, your work, your data interests and how you (plan to) use data science skills in your current/future work). Plus, add your Linkedin account link. Watch some UseR-2020 videos ([Main Link](https://user2020.r-project.org/) - [YouTube Link](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg)) and write one of them down on your RMarkdown document. Find 3 R posts relevant to your interests and describe them. Get the html output and put it in your progress journal repository. Provide link from your Progress Journal page. ([Click for example](https://pjournal.github.io/mef03-OzgeBegde/RMarkdown_Homework.html)).
++ **RMarkdown Homework (Deadline Oct 21, 18:30):** Prepare an RMarkdown document. Introduce yourself in one paragraph (Your name surname, your work, your data interests and how you (plan to) use data science skills in your current/future work). Plus, add your Linkedin account link. Watch some UseR-2020 videos ([Main Link](https://user2020.r-project.org/) - [YouTube Link](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg)) and write one of them down on your RMarkdown document. Find 3 R posts relevant to your interests and describe them. Get the html output and put it in your progress journal repository. Provide link from your Progress Journal page. ([Click for example](https://pjournal.github.io/mef03-OzgeBegde/RMarkdown_Homework.html)).
 + Form teams of 4-5 and prepare for major projects (we will discuss in week 2).
 
 + [Cheat Sheet Heaven](https://www.rstudio.com/resources/cheatsheets/)
