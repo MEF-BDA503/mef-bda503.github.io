@@ -87,29 +87,32 @@ Presentations!
 
 + Feel free to explore kernels for inspiration. If you include direct code copy pastes, kindly provide references with name and link. Have some original code (at least 50%) as well.
 + You are welcome to upload your Rmd kernel to Kaggle. If you do, please add it to your GPJ with a text and link.
+ -->
 
+# Week 3 (Nov 4, 2020)
 
-# Week 2 (Aug 11 & 13, 2020)
-
-**Guest Lecture** [Burcu Yılmaz](https://www.linkedin.com/in/burcu-yilmaz-47944a57/) Data Science and Customer Experience Lead at [QNBEYOND](https://www.qnbeyond.com)
-
-`dplyr` has undergone significant changes in version 1.0.0. You might want to update. See all changes [from this link](https://www.tidyverse.org/tags/dplyr-1-0-0/).
-
-+ [Introduction to dplyr v1.0.0](files/dplyr_renewable.html)
-  + Extra Material: [Introduction to dplyr with election data](https://mef-bda503.github.io/files/dplyr_elections.html)
-  + Extra Material (in Turkish): [R ile Veri Analizi 101](https://acikenerji.github.io/verianalizi101/)
-
-+ [Introduction to ggplot2](files/ggplot2_renewable.html)
++ [Introduction to ggplot2](https://pjournal.github.io/files/ggplot2_renewable.html)
   + Extra Material: [Introduction to ggplot2 with election data](https://mef-bda503.github.io/files/ggplot2_elections.html)
   + Extra Material: [Introduction to ggplot2 with weather data](https://mef-bda503.github.io/archive/fall18/files/ggplot2_lecture.html)
 
-**Assignment 2: Electricity Market Prices** (Due Date: August 18, 2020 09:00 / Postponed to August 25, 23:59)
+**Assignment: Electricity Market Prices** (Due Date: Nov 12, 2020)
 
 + Data source: [EPIAS/EXIST MCP/SMP Page](https://rapor.epias.com.tr/rapor/xhtml/ptfSmfListeleme.xhtml)
-+ Assignment: Prepare a report about July 2020's electricity prices using only MCP/SMP data using RMarkdown, dplyr and ggplot2.
-  + Download (1-31) July 2020 data from the source. (There is "download xls/csv" button at the bottom of the table on the left)
++ Assignment: Prepare a report about September 2020's electricity prices using only MCP/SMP data using RMarkdown, dplyr and ggplot2.
+  + Download (1-30) September 2020 data from the source. (There is "download xls/csv" button at the bottom of the table on the left)
   + Post the RMarkdown HTML output and upload it to your Progress Journal. (You need to give a link on your PJ to your assignment, otherwise it won't be evaluated.)
-  + Use [this tutorial](files/electricity_markets_mini_tutorial) to learn more about the data. -->
+  + Use [this tutorial](https://pjournal.github.io/files/electricity_markets_mini_tutorial) to learn more about the data.
+
+# Week 2 (Oct 19, 2020)
+
+**Guest Lecture** [Kadir Malak](https://www.linkedin.com/in/kadir-malak/) Software Engineer at [Tazi.ai](https://tazi.ai/)
+
+`dplyr` has undergone significant changes in version 1.0.0. You might want to update. See all changes [from this link](https://www.tidyverse.org/tags/dplyr-1-0-0/).
+
++ [Introduction to dplyr v1.0.0](https://pjournal.github.io/files/dplyr_renewable.html)
+  + Extra Material: [Introduction to dplyr with election data](https://mef-bda503.github.io/files/dplyr_elections.html)
+  + Extra Material (in Turkish): [R ile Veri Analizi 101](https://acikenerji.github.io/verianalizi101/)
+
 
 # Week 1 (Oct 7, 2020)
 
