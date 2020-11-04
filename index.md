@@ -5,10 +5,12 @@
 + [Progress Journals](pj_list)
 <!-- + [Deadlines](deadlines) -->
 
-<!-- 
 **Group Projects**
 
 + [Group project guidelines](files/project_guidelines.html).
+
+<!-- 
+
 + [Bonus: Group Work - R Tutorials](files/group_tutorials).
 
 
