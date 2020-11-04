@@ -9,7 +9,7 @@ _Coming soon..._
 Ordered by first name.
 
 + Ahmet Emin Sarıcaoğlu ([site](https://pjournal.github.io/mef04-ahmeteminsa))
-+ Ali Altıntaş ([site](https://pjournal.github.io/))
++ Ali Altıntaş ([site](https://pjournal.github.io/mef04-alialtintas/))
 + Alican Sevimay ([site](https://pjournal.github.io/mef04-AlicanSevimay))
 + Alihan Büyükeken ([site](https://pjournal.github.io/mef04-alihanb))
 + Aliihsan Cem Yüzbaşıoğlu ([site](https://pjournal.github.io/mef04-cemyzbs))
