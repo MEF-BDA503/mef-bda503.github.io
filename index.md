@@ -14,17 +14,7 @@
 + [Bonus: Group Work - R Tutorials](files/group_tutorials).
 
 
-# Week 6 (Sep 8 & 11, 2020)
-
-Presentations!
-
-**Guest Lecture** [Serhat Keçici](https://www.linkedin.com/in/serhat-ke%C3%A7ici-20240335/) Cognitive and Analytics Practice Leader at [IBM](https://www.ibm.com/tr-tr)
-**Guest Lecture** [Kutay Güneştepe](https://www.linkedin.com/in/kutay-g%C3%BCne%C5%9Ftepe-58896559/) Senior Expert at ITU ARI Technopolis and ITU Magnet Manager [ITU Magnet - ITU ARI Technopolis](http://itumagnet.com/)
-
-
 # Week 5 (Sep 1 & 3, 2020)
-
-**Guest Lecture** [Merve Yılmaz](https://www.linkedin.com/in/mervyilmaz/) Account Manager at [Amazon (Web Services)](https://aws.amazon.com/)
 
 + Machine Learning Part I ([html](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml.pdf))
 + Machine Learning Part II ([html](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml_2.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml_2.pdf))
@@ -65,8 +55,6 @@ Presentations!
 
 # Week 3 (Aug 18 & 20, 2020)
 
-**Guest Lecture** [İlker Kurtuluş](https://www.linkedin.com/in/ilker-kurtulus/) Senior Data Scientist at [Tarfin](https://tarfin.com/)
-
 + This week we will learn about `shiny` to create interactive dashboards on web browsers ([official tutorial](https://shiny.rstudio.com/tutorial/)). Also see the [Shiny Cheatsheet](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf) from RStudio. (Bonus: Check <https://shinyapps.io> to deploy your shiny apps)
   + [Extra tutorial on R Shiny (Turkish)](https://acikenerji.github.io/R-shiny/)
   + [Mastering Shiny](https://mastering-shiny.org/)
@@ -88,6 +76,16 @@ Presentations!
 + Feel free to explore kernels for inspiration. If you include direct code copy pastes, kindly provide references with name and link. Have some original code (at least 50%) as well.
 + You are welcome to upload your Rmd kernel to Kaggle. If you do, please add it to your GPJ with a text and link.
  -->
+
+# Week 4 (Nov 18, 2020)
+
++ This week we will learn about `shiny` to create interactive dashboards on web browsers ([official tutorial](https://shiny.rstudio.com/tutorial/)). Also see the [Shiny Cheatsheet](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf) from RStudio. (Bonus: Check <https://shinyapps.io> to deploy your shiny apps)
+  + [Extra tutorial on R Shiny (Turkish)](https://acikenerji.github.io/R-shiny/)
+  + [Mastering Shiny](https://mastering-shiny.org/)
+  + [How to deploy to shinyapps.io](https://shiny.rstudio.com/articles/shinyapps.html)
++ Shiny in-class exercise [starter code](https://gist.github.com/berkorbay/5793188b7ebfe013ce64703179f9aa01).
+
+**Group Assignment: New York City Airbnb Open Data - Kaggle** (Due Date: August 30, 2020 23:59)
 
 # Week 3 (Nov 4, 2020)
 
