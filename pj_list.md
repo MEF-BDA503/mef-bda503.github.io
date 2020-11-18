@@ -2,7 +2,12 @@ Back to [home](https://mef-bda503.github.io)
 
 # Group Progress Journals
 
-_Coming soon..._
++ madagaskaR ([site](https://pjournal.github.io/mef04g-madagaskar))
++ Rsızlar ([site](https://pjournal.github.io/mef04g-rsizlar))
++ A-K-A R ([site](https://pjournal.github.io/mef04g-a-k-a-r))
++ Rhapsody ([site](https://pjournal.github.io/mef04g-rhapsody))
++ Champions ([site](https://pjournal.github.io/mef04g-champions)) 
++ Bak-R-ız ([site](https://pjournal.github.io/mef04g-bak-r-iz))
 
 # Individual Progress Journals
 
