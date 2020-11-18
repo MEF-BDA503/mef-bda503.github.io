@@ -85,8 +85,6 @@
   + [How to deploy to shinyapps.io](https://shiny.rstudio.com/articles/shinyapps.html)
 + Shiny in-class exercise [starter code](https://gist.github.com/berkorbay/5793188b7ebfe013ce64703179f9aa01).
 
-**Group Assignment: New York City Airbnb Open Data - Kaggle** (Due Date: August 30, 2020 23:59)
-
 # Week 3 (Nov 4, 2020)
 
 + [Introduction to ggplot2](https://pjournal.github.io/files/ggplot2_renewable.html)
