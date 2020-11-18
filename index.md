@@ -84,6 +84,19 @@
   + [Mastering Shiny](https://mastering-shiny.org/)
   + [How to deploy to shinyapps.io](https://shiny.rstudio.com/articles/shinyapps.html)
 + Shiny in-class exercise [starter code](https://gist.github.com/berkorbay/5793188b7ebfe013ce64703179f9aa01).
++ Example run code from a Shiny application `shiny::runGitHub("BOUN-IE48A/boun-ie48a.github.io",subdir="files/shinyExample/")`
++ Bonus: You may look at [shinydashboard](https://rstudio.github.io/shinydashboard/) for dashboard web apps.
++ Bonus: You may look at [shinyMobile](https://rinterface.github.io/shinyMobile/) for mobile optimized web apps.
+
+**Group Assignment: ISBIKE Data** (Due Date: November 29, 2020 23:59)
+
+[isbike](https://www.isbike.istanbul/) is the bike sharing service of Istanbul Metropolitan Municipality. This assignment requires you to take a snapshot of isbike station data and prepare an informative Shiny app with it.
+
++ Download snapshot data from **[this link](https://github.com/berkorbay/datasets/raw/master/isbike/isbike_20201118.rds)**. (Data is originally taken from [IBB Open Data Portal](https://data.ibb.gov.tr/en/dataset/isbike-istasyon-durumlari-web-servisi))
++ Data is in text json format. You can use `fromJSON` function from `jsonlite` R package.
++ Design of the Shiny app is up to you, but it should be informative. It should provide both station metrics and overall summary metrics.
++ You should deploy your app to shinyapps.io and provide a working link from your Group Progress Journal to be graded.
++ **Bonus**: If you also provide a mobile version of your app using shinyMobile (You need to provide the plain version first, there should be two links).
 
 # Week 3 (Nov 4, 2020)
 
