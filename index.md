@@ -31,51 +31,23 @@
 + **[Introduction to Statistical Learning](files/ISLR Seventh Printing.pdf)**
 + **[Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)**
 
-# Week 4 (Aug 25 & 27, 2020)
+-->
 
-+ [rvest Mini Tutorial](files/rvest_mini_tutorial.html)
+# Week 5 (Dec 2, 2020)
+
+**Guest Lecture** [Cem Vardar](https://www.linkedin.com/in/cem-vardar-70119514/) Senior Director, Decision Support Systems at [Carvana](https://en.wikipedia.org/wiki/Carvana)
+
++ [rvest Mini Tutorial](https://boun-ie48a.github.io/files/rvest_mini_tutorial.html)
   + In Class Exercise: Try the exercises at the end of the rvest mini tutorial.
 
 + [Joins tutorial](https://stat545.com/join-cheatsheet.html)
-  + [Mini live lecture](files/joins_tutorial_live_lecture.html)
-+ [Mini tutorial on pivot longer/wider](files/short_tutorial_on_pivot_wider_longer.html)
-+ Exercise data: ATP World Tour 2017 Tennis data ([RData](https://mef-bda503.github.io/files/atp_tennis_data_2017.RData)) ([Source](https://github.com/serve-and-volley/atp-world-tour-tennis-data/)) ([Example analysis](https://pjournal.github.io/mef03-karaahmetlid/ATP2017.html))
-  + In-class exercise ([see the desired outputs on dummy data](files/tennis_exercise_output.png))
+  + [Mini live lecture](https://boun-ie48a.github.io/files/joins_tutorial_live_lecture.html)
++ [Mini tutorial on pivot longer/wider](https://boun-ie48a.github.io/files/short_tutorial_on_pivot_wider_longer.html)
++ In-Class Exercise data: ATP World Tour 2017 Tennis data ([RData](https://mef-bda503.github.io/files/atp_tennis_data_2017.RData)) ([Source](https://github.com/serve-and-volley/atp-world-tour-tennis-data/)) ([Example analysis](https://pjournal.github.io/mef03-karaahmetlid/ATP2017.html))
+  + In-class exercise ([see the desired outputs on dummy data](https://boun-ie48a.github.io/files/tennis_exercise_output.png))
     1. Create a matrix (or data frame) of "top 20" (top winners by quantity) players with the number matches among themselves as the value. Plot a heatmap of this matrix.
     2. Create a matrix (or data frame) of top 20 players with win percentages (rows are winners).
     3. Do the same for top 5 countries.
-+ In-class exercise: [Top 3 Industrial Engineering programs rds data](files/top_3_IE.rds). (Source: [BOUN](https://yokatlas.yok.gov.tr/lisans.php?y=102210295), [ITU](https://yokatlas.yok.gov.tr/lisans.php?y=105510662), [METU](https://yokatlas.yok.gov.tr/lisans.php?y=108410363))
-    + This data set is taken from YÖK Atlas, containing partial information about preferences of students placed in respective programs in university entrance examination of 2019. Data set is a list consisting of 3 IE programs (BOUN-IE, ITU-IE and METU-IE). There are two data sets under each program: `prog_prefs` and `city_prefs`.
-    + `prog_prefs` ([example data](https://yokatlas.yok.gov.tr/lisans-panel.php?y=105510662&p=1340b&pr=1)) contains the names and preference frequency of programs preferred by those placed in that IE program. For instance, there are 5 preferences for Dentistry (Diş Hekimliği) by the students placed in ITU-IE (a little context: Each student has a preference list and they can prefer up to 24 programs, so there are more preference quantities than students placed in that program).
-    + `city_prefs` ([example data](https://yokatlas.yok.gov.tr/lisans-panel.php?y=105510662&p=1330&pr=1)) is similar but for cities.
-    + Analyze those programs for similarities and differences
-      1. Find the top 3 program preferences other than IE which all three programs have in common. (e.g. "Candidates of all 3 universities chose Mechanical Engineering as their second most popular choice.")
-      2. Find the program preferences which are exclusive to a single university but not common in other universities (e.g. "Candidates of BOUN significantly preferred Economics but same pattern cannot be seen in ITU and METU")
-      3. Do some analyses and visualizations of your own.
-
-# Week 3 (Aug 18 & 20, 2020)
-
-+ This week we will learn about `shiny` to create interactive dashboards on web browsers ([official tutorial](https://shiny.rstudio.com/tutorial/)). Also see the [Shiny Cheatsheet](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf) from RStudio. (Bonus: Check <https://shinyapps.io> to deploy your shiny apps)
-  + [Extra tutorial on R Shiny (Turkish)](https://acikenerji.github.io/R-shiny/)
-  + [Mastering Shiny](https://mastering-shiny.org/)
-  + [How to deploy to shinyapps.io](https://shiny.rstudio.com/articles/shinyapps.html)
-+ Shiny in-class exercise [starter code](https://gist.github.com/berkorbay/5793188b7ebfe013ce64703179f9aa01).
-+ Example run code from a Shiny application `shiny::runGitHub("BOUN-IE48A/boun-ie48a.github.io",subdir="files/shinyExample/")`
-
-+ [Making an R Package: A tutorial](files/making_an_r_package.html)
-  + Extra reference: [R Package Primer](https://kbroman.org/pkg_primer/) by Karl Broman
-
-**Group Assignment: New York City Airbnb Open Data - Kaggle** (Due Date: August 30, 2020 23:59)
-
-"Kaggle is an online community of data scientists and machine learning practitioners." - [Wikipedia](https://en.wikipedia.org/wiki/Kaggle). Your assignment is to analyze a data set from Kaggle.
-
-1. Download New York City Airbnb Open Data csv file from [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) convert it to and rds file.
-2. Prepare an analysis with dplyr + ggplot2 + rmarkdown and upload html (+pdf if you like) output to your Group Progress Journals.
-3. Prepare a Shiny app and upload to your Group Progress Journals which we can directly call with a single command of `shiny::runGitHub` (important!).
-
-+ Feel free to explore kernels for inspiration. If you include direct code copy pastes, kindly provide references with name and link. Have some original code (at least 50%) as well.
-+ You are welcome to upload your Rmd kernel to Kaggle. If you do, please add it to your GPJ with a text and link.
- -->
 
 # Week 4 (Nov 18, 2020)
 
