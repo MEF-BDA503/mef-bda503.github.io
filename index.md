@@ -9,19 +9,21 @@
 
 + [Group project guidelines](files/project_guidelines.html).
 
-<!-- 
 
-+ [Bonus: Group Work - R Tutorials](files/group_tutorials).
+# Week 7 (Dec 30, 2020)
 
+Presentations!
 
-# Week 5 (Sep 1 & 3, 2020)
+# Week 6 (Dec 16, 2020)
+
+Guest lecture by [Pınar Dursun](https://www.linkedin.com/in/p%C4%B1nar-dursun-23a64ba2/), Postdoctoral Research Fellow at Sloan Kettering Institute & [Umut Gündüz](https://www.linkedin.com/in/umut-g%C3%BCnd%C3%BCz-20b251b5/), Quant at a NYC fintech startup.
 
 + Machine Learning Part I ([html](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml.pdf))
 + Machine Learning Part II ([html](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml_2.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml_2.pdf))
 
 **In Class Exercise**: Check the [NYC Airbnb Data Kaggle Page](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) for notebooks applying machine learning algorithms to the data. Pick one notebook, give the link, and explain the process steps on your Progress Journals (you do not need to write code).
 
-**Assignment 3 (individual)** (Due Date: September 10, 2020 23:59) These are 3 individual data sets / assignments. You may do all of them, but choose one to report. Add the assignment to your individual Progress Journals. If you add more than one assignment to your PJ, state the one you want to be graded. (p.s. Those data sets are popular on internet. If you find an inspiration, please state it in a references section with links.)
+**Assignment 3 (individual)** (Due Date: Dec 24, 2020 23:59) These are 3 individual data sets / assignments. You may do all of them, but choose one to report. Add the assignment to your individual Progress Journals. If you add more than one assignment to your PJ, state the one you want to be graded. (p.s. Those data sets are popular on internet. If you find an inspiration, please state it in a references section with links.)
   + Assginment 3.1: Esoph and Youth Survey ([html](https://mef-bda503.github.io/archive/fall17/files/assignment_youth_survey.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/assignment_youth_survey.pdf))
   + Assginment 3.2: Spam Data ([html](https://mef-bda503.github.io/archive/fall17/files/assignment_spam_data.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/assignment_spam_data.pdf))
   + Assginment 3.3: Diamonds Data ([html](https://mef-bda503.github.io/archive/fall17/files/assignment_diamonds_data.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/assignment_diamonds_data.pdf))
@@ -31,7 +33,7 @@
 + **[Introduction to Statistical Learning](files/ISLR Seventh Printing.pdf)**
 + **[Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)**
 
--->
+
 
 # Week 5 (Dec 2, 2020)
 
