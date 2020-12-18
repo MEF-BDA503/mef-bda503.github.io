@@ -7,7 +7,7 @@
 
 **Group Projects**
 
-+ [Group project guidelines](files/project_guidelines.html).
++ [Group project guidelines](files/project_guidelines.html). (**Updated! 2020-12-18**)
 
 
 # Week 7 (Dec 30, 2020)
