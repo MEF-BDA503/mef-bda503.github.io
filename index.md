@@ -12,6 +12,8 @@
 
 # Week 7 (Dec 30, 2020)
 
+**Guest Lecture** [Önder Akar](https://www.linkedin.com/in/onderakar/) CEO at [smartPulse Technologies](https://www.smartpulse.io/)
+
 Presentations!
 
 # Week 6 (Dec 16, 2020)
