@@ -11,9 +11,9 @@
 - Form teams of 4-5 and prepare for major projects (we will discuss in week 2).
 
 - [Cheat Sheet Heaven](https://www.rstudio.com/resources/cheatsheets/)
-- [Introduction to R](https://pjournal.github.io/files/r_intro/) - Brief Presentation
+- [Introduction to R](https://pjournal.github.io/docs/r_intro/2109/) - Brief Presentation
 - Introduction to R ([html](https://pjournal.github.io/files/01_R_Basics.html) \| [pdf](https://pjournal.github.io/files/01_R_Basics.pdf))
-- [R Fundamentals Exercises](https://pjournal.github.io/files/R_fundamentals_exercises.html) ([solutions](https://pjournal.github.io/files/R_fundamentals_exercises_solutions.html))
+- [R Fundamentals Exercises](https://pjournal.github.io/files/R_fundamentals_exercises.html)
 
 # Week 0
 
@@ -25,7 +25,7 @@ This course benefits from **DataCamp for the Classroom** program. See details [h
 
 ## Course Archive
 
-- [2020](archive/fall20) - [2020](archive/fall19) - [2020](archive/fall18) - [2020](archive/fall17)
+- [2020](archive/fall20) - [2019](archive/fall19) - [2018](archive/fall18) - [2017](archive/fall17)
 - [See all previous similar courses from here](https://berkorbay.github.io/courses/)
 - [Student projects](https://medium.com/berk-orbay/student-data-analysis-projects-with-r-729a8529d5a8)
 
