@@ -10,6 +10,7 @@
 - **RMarkdown Homework (Deadline Oct 6, 18:30):** Prepare an RMarkdown document. Introduce yourself in one paragraph (Your name surname, your work, your data interests and how you (plan to) use data science skills in your current/future work). Plus, add your Linkedin account link. Watch some UseR-2021 videos ([Main Link](https://user2021.r-project.org/) - [Recordings Link](https://user2021.r-project.org/recordings/)) and write one of them down on your RMarkdown document. Find 3 R posts relevant to your interests and describe them. Get the html output and put it in your progress journal repository. Provide link from your Progress Journal page. Click for ([Example 1](https://pjournal.github.io/mef03-OzgeBegde/RMarkdown_Homework.html)) and [Example 2](https://pjournal.github.io/boun01-canaytore/assignment1_rmarkdown).
 - Form teams of 4-5 and prepare for major projects (we will discuss in week 2).
 
+- [GitHub Desktop](https://desktop.github.com/)
 - [Cheat Sheet Heaven](https://www.rstudio.com/resources/cheatsheets/)
 - [Introduction to R](https://pjournal.github.io/docs/r_intro/2109/) - Brief Presentation
 - Introduction to R ([html](https://pjournal.github.io/files/01_R_Basics.html) \| [pdf](https://pjournal.github.io/files/01_R_Basics.pdf))
