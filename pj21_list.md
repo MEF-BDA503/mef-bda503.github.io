@@ -1,6 +1,6 @@
 Back [home](https://mef-bda503.github.io)
 
-# Progress Journals of Class of Fall 2021-2022
+# Progress Journals \- Class of Fall 2021\-2022
 
 ## Individual Progress Journals
 
