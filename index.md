@@ -1,8 +1,7 @@
 # Course Essentials
 
-- [Introduction to BDA503](files/introduction/)
-  <!-- - [Progress Journals](pj20_list) -->
-  <!-- + [Deadlines](deadlines) -->
+- [Progress Journals](pj21_list)
+<!-- + [Deadlines](deadlines) -->
 
 # Week 1 (Sep 22, 2021)
 
