@@ -3,6 +3,12 @@
 - [Progress Journals](pj21_list)
 <!-- + [Deadlines](deadlines) -->
 
+# Week 2 (Oct 6, 2021)
+
+- [Introduction to dplyr v1.0.0](https://pjournal.github.io/files/dplyr_renewable.html)
+  - Extra Material: [Introduction to dplyr with election data](https://mef-bda503.github.io/files/dplyr_elections.html)
+  - Extra Material (in Turkish): [R ile Veri Analizi 101](https://acikenerji.github.io/verianalizi101/)
+
 # Week 1 (Sep 22, 2021)
 
 - [Introduction to BDA503](files/introduction/)
