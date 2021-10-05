@@ -17,7 +17,7 @@ Ordered by first name.
 - Merve İrem Bölük ([site](https://pjournal.github.io/mef05-merveirem/))
 - Meryem Usta ([site](https://pjournal.github.io/mef05-ustame/))
 - Mine Kara ([site](https://pjournal.github.io/mef05-MineKara95/))
-- Murat Can Taşar ([site](https://pjournal.github.io/mef05-https://pjournal.github.io/mef05-mctasar/))
+- Murat Can Taşar ([site](https://pjournal.github.io/mef05-mctasar/))
 - Nejat Uğur Akın ([site](https://pjournal.github.io/mef05-nejatugurakin/))
 - Onur Özada ([site](https://pjournal.github.io/mef05-OOzada/))
 - Özgür Akbelen ([site](https://pjournal.github.io/mef05-akbeleno/))
