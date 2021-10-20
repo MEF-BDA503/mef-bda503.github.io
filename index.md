@@ -19,6 +19,14 @@ Guest lecture by [Gizem Gür](https://www.linkedin.com/in/gizemgur/), Co-Founder
 - Reports not linked from your Progress Journals will not be graded.
 - Bonus deadline is strict. But you are welcome to put your analysis to your Progress Journals afterwards. They will be taken into account to determine your letter grades regardless of the bonus.
 
+**Netflix Assignment (Deadline Nov 3, 18:30)**
+
+- You are going to analyze Netflix shows with a given dataset.
+- Gather Netflix data from [this link](https://github.com/ygterl/EDA-Netflix-2020-in-R/raw/master/netflix_titles.csv).
+- Refer to Yigit Erol's [Medium post](https://medium.com/deep-learning-turkiye/exploration-of-netflix-2020-dataset-in-r-markdown-eda-b202bbaec4a) and [Github repository](https://github.com/ygterl/EDA-Netflix-2020-in-R/). It is an RMarkdown project and Rmd files and his analyses might help you.
+- Prepare your own analysis. It might be about a single genre, distribution and benchmark of genres, ratings, durations, or anything else that you think is creative and analytical. (Pro tip: End your analysis with some show suggestions to make it more interesting.)
+- Post the RMarkdown HTML output and upload it to your Progress Journal. (You need to give a link on your PJ to your assignment, otherwise it won’t be evaluated.) Add a reference link to Yigit's work.
+
 # Week 2 (Oct 6, 2021)
 
 - [Introduction to dplyr v1.0.0](https://pjournal.github.io/files/dplyr_renewable.html)
@@ -28,7 +36,7 @@ Guest lecture by [Gizem Gür](https://www.linkedin.com/in/gizemgur/), Co-Founder
 # Week 1 (Sep 22, 2021)
 
 - [Introduction to BDA503](files/introduction/)
-- **RMarkdown Homework (Deadline Oct 6, 18:30):** Prepare an RMarkdown document. Introduce yourself in one paragraph (Your name surname, your work, your data interests and how you (plan to) use data science skills in your current/future work). Plus, add your Linkedin account link. Watch some UseR-2021 videos ([Main Link](https://user2021.r-project.org/) - [Recordings Link](https://user2021.r-project.org/recordings/)) and write one of them down on your RMarkdown document. Find 3 R posts relevant to your interests and describe them. Get the html output and put it in your progress journal repository. Provide link from your Progress Journal page. Click for ([Example 1](https://pjournal.github.io/mef03-OzgeBegde/RMarkdown_Homework.html)) and [Example 2](https://pjournal.github.io/boun01-canaytore/assignment1_rmarkdown).
+- **RMarkdown Assignment (Deadline Oct 6, 18:30):** Prepare an RMarkdown document. Introduce yourself in one paragraph (Your name surname, your work, your data interests and how you (plan to) use data science skills in your current/future work). Plus, add your Linkedin account link. Watch some UseR-2021 videos ([Main Link](https://user2021.r-project.org/) - [Recordings Link](https://user2021.r-project.org/recordings/)) and write one of them down on your RMarkdown document. Find 3 R posts relevant to your interests and describe them. Get the html output and put it in your progress journal repository. Provide link from your Progress Journal page. Click for ([Example 1](https://pjournal.github.io/mef03-OzgeBegde/RMarkdown_Homework.html)) and [Example 2](https://pjournal.github.io/boun01-canaytore/assignment1_rmarkdown).
 - Form teams of 4-5 and prepare for major projects (we will discuss in week 2).
 
 - [GitHub Desktop](https://desktop.github.com/)
