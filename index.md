@@ -3,6 +3,19 @@
 - [Progress Journals](pj21_list)
 <!-- + [Deadlines](deadlines) -->
 
+# Week 4 (Nov 3, 2021)
+
+Guest lecture by [Kemal Davaslıoğlu](https://www.linkedin.com/in/kdavasli/), Senior Research Scientist at [Intelligent Automation](https://www.i-a-i.com/).
+
+- This week we will learn about `shiny` to create interactive dashboards on web browsers ([official tutorial](https://shiny.rstudio.com/tutorial/)). Also see the [Shiny Cheatsheet](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf) from RStudio. (Bonus: Check <https://shinyapps.io> to deploy your shiny apps)
+  - [Extra tutorial on R Shiny (Turkish)](https://acikenerji.github.io/R-shiny/)
+  - [Mastering Shiny](https://mastering-shiny.org/)
+  - [How to deploy to shinyapps.io](https://shiny.rstudio.com/articles/shinyapps.html)
+- Shiny in-class exercise [starter code](https://gist.github.com/berkorbay/5793188b7ebfe013ce64703179f9aa01).
+- Example run code from a Shiny application `shiny::runGitHub("BOUN-IE48A/boun-ie48a.github.io",subdir="files/shinyExample/")`
+- Bonus: You may look at [shinydashboard](https://rstudio.github.io/shinydashboard/) for dashboard web apps.
+- Bonus: You may look at [shinyMobile](https://rinterface.github.io/shinyMobile/) for mobile optimized web apps.
+
 # Week 3 (Oct 20, 2021)
 
 Guest lecture by [Gizem Gür](https://www.linkedin.com/in/gizemgur/), Co-Founder & Senior System Architect of [Sufle](https://www.sufle.io/).
