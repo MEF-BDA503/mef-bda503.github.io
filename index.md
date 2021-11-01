@@ -1,7 +1,8 @@
 # Course Essentials
 
 - [Progress Journals](pj21_list)
-<!-- + [Deadlines](deadlines) -->
+- [Projects](projects)
+- Deadlines (coming soon...)
 
 # Week 4 (Nov 3, 2021)
 
