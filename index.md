@@ -2,7 +2,7 @@
 
 - [Progress Journals](pj21_list)
 - [Projects](projects)
-- Deadlines (coming soon...)
+- [Project Guidelines](project_guidelines)
 
 # Week 4 (Nov 3, 2021)
 
