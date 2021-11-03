@@ -6,7 +6,7 @@ Choose one the following topics and email to your instructor by Friday (Nov 5, 2
 
 ## Instructions
 
-Coming soon...
+See [project guidelines](project_guidelines).
 
 ## Proposal 1 - Foreign Trade Statistics - Vehicle and Trailer Tracking
 
