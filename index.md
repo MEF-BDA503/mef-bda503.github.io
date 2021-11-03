@@ -17,6 +17,10 @@ Guest lecture by [Kemal Davaslıoğlu](https://www.linkedin.com/in/kdavasli/), S
 - Bonus: You may look at [shinydashboard](https://rstudio.github.io/shinydashboard/) for dashboard web apps.
 - Bonus: You may look at [shinyMobile](https://rinterface.github.io/shinyMobile/) for mobile optimized web apps.
 
+**Group Assignment (Deadline Nov 17, 18:30)**
+
+Create a Shiny app using the Izmir's Fish Market data (see previous week's in-class example). Use your imagination but keep it simple enough. Upload it to shinyapps.io and give a link from your Group Progress Journal.
+
 # Week 3 (Oct 20, 2021)
 
 Guest lecture by [Gizem Gür](https://www.linkedin.com/in/gizemgur/), Co-Founder & Senior System Architect of [Sufle](https://www.sufle.io/).
