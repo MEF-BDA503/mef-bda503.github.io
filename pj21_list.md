@@ -11,7 +11,7 @@ Ordered by first name.
 - Cem Eldemir ([site](https://pjournal.github.io/mef05-cemeldemir/))
 - Emirhan Şahin ([site](https://pjournal.github.io/mef05-liophire/))
 - Emre Can Sığırcı ([site](https://pjournal.github.io/mef05-emrecansi/))
-- Kadir Baver Kerimoğlu
+- Kadir Baver Kerimoğlu ([site](https://pjournal.github.io/mef05-kadirbaverkerimoglu/))
 - Kerem Ali Yalçınkaya ([site](https://pjournal.github.io/mef05-keremlyalcinkaya/))
 - Melih Mert Tunç ([site](https://pjournal.github.io/mef05-mmerttunc/))
 - Merve İrem Bölük ([site](https://pjournal.github.io/mef05-merveirem/))
