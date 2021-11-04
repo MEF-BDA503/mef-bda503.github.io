@@ -1,7 +1,17 @@
 Back [home](https://mef-bda503.github.io)
 
 # Progress Journals
+
 Class of Fall 2021\-2022
+
+## Group Progress Journals
+
+Ordered by group id.
+
+- R U Mine ([site](https://pjournal.github.io/mef05g-r-u-mine/))
+- R Ninjas ([site](https://pjournal.github.io/mef05g-rninjas/))
+- Division Bell ([site](https://pjournal.github.io/mef05g-division-bell/))
+- The Wall ([site](https://pjournal.github.io/mef05g-the-wall/))
 
 ## Individual Progress Journals
 
