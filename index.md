@@ -4,6 +4,23 @@
 - [Projects](projects)
 - [Project Guidelines](project_guidelines)
 
+# Week 5 (Nov 17, 2021)
+
+**Guest Lecture** [Ecem Korkmaz Gelal](https://www.linkedin.com/in/ecemkorkmaz/) Co-Founder & CEO at [TalentGrid](https://talentgrid.io/)
+
+- [rvest Mini Tutorial](https://boun-ie48a.github.io/files/rvest_mini_tutorial.html)
+
+  - Voluntary Exercise: Try the exercises at the end of the rvest mini tutorial.
+
+- [Joins tutorial](https://stat545.com/join-cheatsheet.html)
+  - [Mini live lecture](https://boun-ie48a.github.io/files/joins_tutorial_live_lecture.html)
+- [Mini tutorial on pivot longer/wider](https://boun-ie48a.github.io/files/short_tutorial_on_pivot_wider_longer.html)
+- Voluntary Exercise data: ATP World Tour 2017 Tennis data ([RData](https://mef-bda503.github.io/archive/fall20/files/atp_tennis_data_2017.RData/atp_tennis_data_2017.RData)) ([Source](https://github.com/serve-and-volley/atp-world-tour-tennis-data/)) ([Example analysis](https://pjournal.github.io/mef03-karaahmetlid/ATP2017.html))
+  - Voluntary exercise ([see the desired outputs on dummy data](https://boun-ie48a.github.io/files/tennis_exercise_output.png))
+    1. Create a matrix (or data frame) of "top 20" (top winners by quantity) players with the number matches among themselves as the value. Plot a heatmap of this matrix.
+    2. Create a matrix (or data frame) of top 20 players with win percentages (rows are winners).
+    3. Do the same for top 5 countries.
+
 # Week 4 (Nov 3, 2021)
 
 Guest lecture by [Kemal Davaslıoğlu](https://www.linkedin.com/in/kdavasli/), Senior Research Scientist at [Intelligent Automation](https://www.i-a-i.com/).
