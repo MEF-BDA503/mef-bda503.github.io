@@ -11,9 +11,10 @@ There might be addition to this guidelines, keep an eye on the updates.
 - Preparation of the preprocessed data (Nov 17, 18:30)
 - Exploratory Data Analysis (Dec 1, 2021 18:30)
 - Rehearsal (Dec 8, 2021 18:30)
+- Blog Post & Teaser (Dec 15, 2021 18:30)
 - Final Project and Presentation (Dec 15, 2021 18:30)
 
-Final deadline is strict but you will be able to revise your final project document.
+Final deadline is strict, but you will be able to revise your final project document.
 
 ## Required Final Deliverables
 
@@ -81,16 +82,21 @@ Before giving your report a final shape, prepare an EDA report. In this document
 
 - State clearly who the group members are and either give a link to your progress journals or Linkedin profiles.
 
-- Important! Presentation Rehearsals You need to submit a rehearsal video by Dec 28, 2020 23:59 (strict). 10% of your project points will come from rehearsal videos. There are two prerequisites. It should be under 10 minutes (strict) and it should cover most of your actual presentation. This is a rehearsal so you don’t need to care much about perfection. Try to make it look good but do not spend a lot of time on retakes. Send videos directly to my email. It is not required to publish them on your GPJ (but it is allowed if you want to).
+- Important! Presentation Rehearsals You need to submit a rehearsal video by Dec 28, 2020 23:59 (strict). 10% of your project points will come from rehearsal videos. There are two prerequisites. It should be under 15 minutes (strict) and it should cover most of your actual presentation. This is a rehearsal so you don’t need to care much about perfection. Try to make it look good but do not spend a lot of time on retakes. Send videos directly to my email. It is not required to publish them on your GPJ (but it is allowed if you want to).
 
 ### Teaser
 
 - BONUS: Prepare a 30 second teaser about your project to be published in your GPJs. Put the video file on your repository and on Youtube. - Provide a link (or embed) in your GPJ. See how to embed Youtube in your Markdown file https://stackoverflow.com/a/54209100/3608936 (Recommendation: For videos you can use Zoom’s screen recording. It is simple and high quality enough.)
 - Rehearsal video is not a teaser.
 
-## Grading Weights
+### Blog Post (Medium)
+
+- BONUS: Briefly describe your project in a blog post fashion. Do not include code, just describe your project clearly and give a link to your analysis and your GPJ main page. Also provide a link to your blog post in your GPJs.
+
+## Grading Weights (Total 110)
 
 - Preprocessing Data and Report (%5)
 - Exploratory Data Analysis (%35)
-- Final Project and Presentation (%50)
+- Final Project and Presentation (Rehearsal included) (%50)
 - Shiny App (%10)
+- BONUS: Blog post & Teaser (%10)
