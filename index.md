@@ -4,6 +4,18 @@
 - [Projects](projects)
 - [Project Guidelines](project_guidelines)
 
+# Week 6 (Dec 15, 2021)
+
+Presentations!
+
+# Week 6 (Dec 1, 2021)
+
+- [reticulate Lecture Notes](reticulate_notes)
+- [reticulate Official Page](https://rstudio.github.io/reticulate)
+- [golem Official Page](https://thinkr-open.github.io/golem/)
+- [Docker Official Page](https://www.docker.com/)
+  - [Docker 101](https://www.docker.com/101-tutorial)
+
 # Week 5 (Nov 17, 2021)
 
 **Guest Lecture** [Ecem Korkmaz Gelal](https://www.linkedin.com/in/ecemkorkmaz/) Co-Founder & CEO at [TalentGrid](https://talentgrid.io/)
