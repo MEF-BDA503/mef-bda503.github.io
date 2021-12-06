@@ -4,7 +4,9 @@
 - [Projects](projects)
 - [Project Guidelines](project_guidelines)
 
-# Week 6 (Dec 15, 2021)
+# Week 7 (Dec 15, 2021)
+
+**Guest Lecture** [Tamer Emre](https://www.linkedin.com/in/tamer-emre/) Director of Market Operations at [EPİAŞ/EXIST](https://epias.com.tr/)
 
 Presentations!
 
