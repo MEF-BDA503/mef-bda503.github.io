@@ -82,7 +82,7 @@ Before giving your report a final shape, prepare an EDA report. In this document
 
 - State clearly who the group members are and either give a link to your progress journals or Linkedin profiles.
 
-- Important! Presentation Rehearsals You need to submit a rehearsal video by Dec 28, 2020 23:59 (strict). 10% of your project points will come from rehearsal videos. There are two prerequisites. It should be under 15 minutes (strict) and it should cover most of your actual presentation. This is a rehearsal so you don’t need to care much about perfection. Try to make it look good but do not spend a lot of time on retakes. Send videos directly to my email. It is not required to publish them on your GPJ (but it is allowed if you want to).
+- Important! Presentation Rehearsals You need to submit a rehearsal video by Dec 8, 2021 23:59 (strict). 10% of your project points will come from rehearsal videos. There are two prerequisites. It should be under 15 minutes (strict) and it should cover most of your actual presentation. This is a rehearsal so you don’t need to care much about perfection. Try to make it look good but do not spend a lot of time on retakes. Send videos directly to my email. It is not required to publish them on your GPJ (but it is allowed if you want to).
 
 ### Teaser
 
