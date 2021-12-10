@@ -1,6 +1,13 @@
-# Course Essentials
+
+# Student and Group Work
+
+You can access code and reports of students and project groups from their **Progress Journals**.
 
 - [Progress Journals](pj21_list)
+
+
+# Course Essentials
+
 - [Projects](projects)
 - [Project Guidelines](project_guidelines)
 
