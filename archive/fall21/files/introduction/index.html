@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>MEF BDA 503</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="Berk Orbay" />
+    <script src="libs/header-attrs-2.7/header-attrs.js"></script>
+    <link href="libs/remark-css-0.0.1/default.css" rel="stylesheet" />
+    <link href="libs/remark-css-0.0.1/default-fonts.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# MEF BDA 503
+## Essentials of Data Analysis
+### Berk Orbay
+### MEF University
+
+---
+
+
+---
+class: inverse, center, middle
+
+# Introduction
+
+---
+
+# What is this course about?
+
+This course has a very simple objective: To teach you the ropes of exploratory data analysis pipeline. 
+
+Mainly the stages of the pipeline are,
+
++ Importing raw data
++ Preprocessing data to prepare for analysis
++ Exploring and analyzing data to find valuable information
++ Communicating findings with verbal reporting, visualization and interactive tools
++ Making everything **reproducible**
+
+Check similar courses from [this link](https://berkorbay.github.io/courses/).
+
+---
+
+# What are some examples of exploratory data analysis?
+
+These examples are from assignments and projects of previous years' students.
+
++ [Automotive sales data](https://pjournal.github.io/mef03g-polatalemd-r/ODD-Car-Sales-Analysis.html): Total sales per brand per year, domestic auto shares per brand, top sellers of 2019, Mercedes vs Volkswagen
+
++ [Credit card spending analysis](https://pjournal.github.io/mef03-OzgeBegde/BKM_Deneme_V3.html): Credit Card and Debit Card Transaction Amount, Credit Card Transaction Amount by Sector, Credit Card and Debit Card Transaction Amount for Market
+
++ [BIST 30 stock analysis](https://mef-bda503.github.io/gpj18-data-jugglers/Project4.html)
+
++ [Turkish Super League analysis](https://pjournal.github.io/mef03g-mujde-r/finalProject.html)
+
++ [Global Terrorism Database analysis](https://mef-bda503.github.io/gpj-datING_/GTD_Project/GTD_Final.html)
+
+You can find more examples [in this post](https://medium.com/berk-orbay/student-data-analysis-projects-with-r-729a8529d5a8). For some short analyses you can check out [#tidytuesday](https://twitter.com/search?q=%23tidytuesday) hashtag in Twitter and [Github Repo](https://github.com/rfordatascience/tidytuesday) ([see this bonus also](https://github.com/gkaramanis/tidytuesday)). 
+
+---
+
+# What is reproducibility?
+
+In simple terms, the ability to reproduce result and analysis without much effort. 
+
+A fully reproducible analysis should include raw data and clear methodology (also, if possible, code) behind the analysis.
+
+There are consequences if a study is not reproducible. [Read more about reproducibility crisis here](https://en.wikipedia.org/wiki/Replication_crisis). 
+
+[See a webinar here](https://rstudio.com/resources/webinars/reproducible-reporting/) about how to create reproducible reports with R Markdown. We will learn basics of R Markdown as soon as possible and do similar stuff.
+
+Additionally, if you can generalize your templates, you can reproduce the study for different data sets in the same topic. It can be financial reports for companies, weather reports for cities etc. [See an example here](https://berkorbay.github.io/secimler/) about elections (in Turkish) where each city and county's reports are generated using a single template. 
+
+---
+class: inverse, center, middle
+
+# Setup
+
+---
+
+# Which tools are we going to use? (Programs)
+
+Download checklist is below. Everything is completely free.
+
++ [R Programming Language](https://cloud.r-project.org/) to code (we will also install packages)
++ [RStudio Desktop](https://rstudio.com/products/rstudio/download/) as IDE
++ [pandoc](https://pandoc.org/installing.html) for document conversion
++ [LaTeX](https://www.latex-project.org/get/) for PDF documents (we will not cover LaTeX notation)
+  + Alternatively you can use [tiny tex](https://yihui.org/tinytex/)
++ [Github Desktop](https://desktop.github.com/) for codebase updates (you can use alternatives)
+  + You will need a [Github](https://github.com/) account
++ [Slack](https://slack.com/) for live communication (you can also use the web client)
+
+Optional and advanced
+
++ [Docker](https://www.docker.com/) for containerization (if time permits)
+
+---
+
+# Which tools are we going to use? (Packages)
+
+Packages are code collections which can be needed for general purpose or specific needs. You can also think of them as modules. 
+
+R has many useful packages. Our course depends on several main packages and package collections. 
+
++ [tidyverse](https://www.tidyverse.org/) is a very useful package collection 
+  + [dplyr](https://dplyr.tidyverse.org/) for data manipulation
+  + [ggplot2](https://ggplot2.tidyverse.org/) for data visualization
++ [RMarkdown](https://rmarkdown.rstudio.com/) for document creation
+  + We will also use [xaringan](https://slides.yihui.org/xaringan/) package for presentations (this document is built using xaringan)
++ [shiny](https://shiny.rstudio.com/) for interactive analysis
+
+Plus we will be using many other packages either as dependency (e.g. [tibble](https://tibble.tidyverse.org/)) or as supporting packages (e.g. [lubridate](https://lubridate.tidyverse.org/)) during the course.
+
+---
+
+# Packages 101 - A short introduction
+
+We install packages to make them available for our use with `install.packages` command. You are effectively downloading the package. **Remember, you need to install only once!**
+
+
+```r
+install.packages(c("tidyverse","rmarkdown","shiny",
+                   "lubridate","xaringan"))
+```
+
+Once installed, we can make use of (load) packages with `library` command (You can also use `require`). Then we can use everything inside that package.
+
+
+```r
+library(tidyverse)
+```
+
+**Advanced**: There is an alternative way to use functions in packages. Once installed, you can directly refer to them using `::`.
+
+
+```r
+lubridate::now()
+```
+
+p.s: You can learn more about packages from [this tutorial](https://www.datacamp.com/community/tutorials/r-packages-guide).
+---
+
+# Datacamp and Supplementary Online Learning
+
+We are going to make use of [Datacamp](datacamp.com) courses throughout the semester. 
+
+Datacamp for Education provides free access to Datacamp resources for 6 months. You are going to get your invitations. Datacamp usually charges monthly fees but **you do not need to pay anything** since you are a student of this course.
+
+Since this semester is completely online, we will rely more on online sources. You will have timed assignments on Datacamp but it will not affect your grade.
+
+Optionally you are encouraged to learn from other sources. A list will be given in a separate slide.
+
+---
+
+# Github &amp; Github Classroom
+
+We are going to use [Github Classroom](https://classroom.github.com/) as the main assignment submission platform. 
+
+All students are going to have two repositories (where you will submit the code files)
+  + Individual repository for their assignments
+  + Group repository for their group assignments and group project
+  
+Invitation links will be provided by the instructor to student email addresses. 
+
+First assignment will be to set up your [Github Pages](https://pages.github.com/). You can check the tutorial in the link (choose Project Site) but **Github Classroom will handle the initial setup**.
+
+Don't forget to download [Github Desktop](https://desktop.github.com/). If you use Linux, [try shiftkey releases](https://github.com/shiftkey/desktop/tags).
+
+**IMPORTANT** (optional): It is highly recommended to get your [Github Student Pack](https://education.github.com/pack) 
+
+---
+
+# Markdown (and R Markdown)
+
+Markdown is a special and minimal syntax "language" which is also used in R Markdown documents.
+
+Although there are some changes between different types of Markdown syntax [Github's guide](https://guides.github.com/features/mastering-markdown/) is a good start. It is very quick and easy to learn (takes ~5 min to get the basics and you can always use a cheatsheet).
+
+Here are some markdown editors as playground: [Stackedit](https://stackedit.io/app), [Dillinger](https://dillinger.io/), [jbt](https://jbt.github.io/markdown-editor/)
+
+R Markdown is essentially Markdown + R Code. [You can start learning from here](https://rmarkdown.rstudio.com/lesson-1.html).
+
+---
+
+# Setup Checklist
+
+It is not actually very complicated :) Here is a checklist to get you started.
+
+1. Download required programs and make sure they are working.
+
+2. Open a Github account.
+
+2. Open a Slack account.
+
+3. When it comes, accept Datacamp invitation.
+
+4. When it comes, accept Github Classroom invitation.
+
+---
+class: center, middle, inverse
+
+# 7-week Course Schedule
+
+---
+
+# Course Expectations
+
+Minimal learning expectations from this course are very clearly defined.
+
++ Fair understanding of data manipulation (using `dplyr`) and data visualization (using `ggplot2`).
+
++ Ability to analyze data and communicate findings with clear and coherent reporting (using `rmarkdown`).
+
++ Ability to create interactive analysis systems (using `shiny`).
+
++ Ability to deploy and publish (using `Github Pages` and `shinyapps.io`).
+
++ Basic understanding of Python &amp; R interoperability.
+
+It is up to the student to extend their learning experience. Both R and the data science field have much to offer. For instance, there are topics like cloud computing, package making/management, containerization, advanced modelling, process automation. There are also numerous interesting R packages making analytics life easier.
+
+---
+
+# 7-week Course Schedule
+
+We have lectures every second Wednesday between 18:30-21:30. Times may vary occasionally.
+
+## Tentative Schedule
+
+Schedule may change with progress. We can have some bonus material to cover.
+
+Week 1: Setup (`rmarkdown`) and Base R
+
+Weeks 2-3: Data Processing, Visualization and Reporting (`dplyr` + `ggplot2`)
+
+Week 4: Interactive Analysis (`shiny`) and Packaging
+
+Week 5: Data Processing, Visualization and Reporting - 2 
+
+Week 6: R &amp; Python Interoperability
+
+Week 7: Recap, Presentations and Final (Take Home)
+
+---
+
+# Online vs Physical Teaching
+
+Because of the pandemic, our course will currently be online. Even though it looks like this course is unaffected by the medium, there are some challenges to consider.
+
+1. In the classroom the instructor can use a screen to present the lecture and meanwhile ask the students to follow the code on their computers. In online teaching, you have a single screen to watch the lecture and code at the same time. Probably at least some students do not have an extra screen.
+
+2. In the classroom the instructor can directly intervene with the student's progress. If the student fails to run a code because of a syntax error (e.g. parentheses mismatch), the instructor can easily correct the student.
+
+3. In the classroom students can help each other and learn from each other. In online, it is not that convenient.
+
+So, as in any experimental setting, there will be problems. Don't worry though, everything will be alright!
+
+---
+
+# Execution of Lectures
+
++ At start, instructor will deliver a short lecture (15-30 mins) either live or from a recorded video.
+
++ Most communication will be on Slack (and perhaps Zoom 1-to-1) for "live support". It means questions of any kind can be asked on Slack.
+
++ There might be "tasks" at each lecture to be finished within lecture hours. Most of the time it will be self-learning from a source and exercises to be finished.
+
++ Most 3-hour lectures will be block, ending at 21:30. Since most of it will be spent with self-learning, students can arrange their own breaks. 
+
++ No regular office hours. We will use Slack. 
+
++ We may have guests from both academia and professional domains about data science related practices in real life problems. Each guest lecture is expected to take between 15 mins and 1 hour. 
+
+---
+
+# Grading
+
++ In-class exercises &amp; Homework: 30%
+  + There will be a number of graded exercises and homeworks. No individual weights, they will be determined as a whole
+  + All homeworks should be on your public Github Pages and explicitly linked from your main Progress Journal. Otherwise, they will not be graded.
+  
++ Group Project: 30%
+
++ Take home final: 40% 
+
++ Bonuses!
+
+---
+
+# Bonus Topics (Idea)
+
+**This slide is just an idea. It is not official.**  Following packages are very useful in a variety of applications. Unfortunately there is not enough time to cover them, perhaps, save a few. Aim is to improve learning by teaching.
+
+Students are encouraged to design a "mini course" (a video of max 5-min, written tutorial with code and example data) and publish in their own repositories.
+
++ [reticulate](https://rstudio.github.io/reticulate/)
++ [golem](https://thinkr-open.github.io/golem/)
++ [rvest](http://rvest.tidyverse.org/)
++ [shinyMobile](https://rinterface.github.io/shinyMobile/)
++ [tidymodels](https://www.tidymodels.org/)
+&lt;!-- + [forecast](https://pkg.robjhyndman.com/forecast/) + [fable](https://fable.tidyverts.org/) --&gt;
++ [tidytext](https://juliasilge.github.io/tidytext/) + [rtweet](https://docs.ropensci.org/rtweet/)
+&lt;!-- + [purrr](https://purrr.tidyverse.org/) --&gt;
+&lt;!-- + [data.table](https://rdatatable.gitlab.io/data.table/) --&gt;
+&lt;!-- + [ompr](https://dirkschumacher.github.io/ompr/) --&gt;
++ [drake](https://docs.ropensci.org/drake/)
++ [keras](https://keras.rstudio.com)
+&lt;!-- + [torch](https://torch.mlverse.org) --&gt;
+
+See previous examples from their Group Progress Journals.
+---
+
+# Groups and Group Project
+
++ As a group project you will be asked to do a complete data analysis on a relevant real-life data set. Check previous examples.
+
++ Groups should be about 4 to 5 students. Any fewer or more will not be allowed.
+
++ You need to form your groups next lecture, 18:30. For those without a group or groups without members, there will be a random assignment. 
+
++ Once settled you cannot change your group under any circumstances.
+
++ There will be group assignments as well.
+
+---
+
+# External Resources (Streams)
+
+There are lots of fantastic resources out there. I suggest signing up for R newsletters and following people on Twitter. Static sources are on course webpage.
+
++ [RViews Newsletter](https://rviews.rstudio.com/)
+
++ [r-bloggers](https://www.r-bloggers.com/)
+
++ [R Weekly](https://rweekly.org/)
+
++ [Tidy Tuesday Hashtag](https://twitter.com/search?q=%23tidytuesday&amp;src=typed_query)
+
++ [Tidy Explained](https://twitter.com/tidy_explained)
+
++ [One R Tip a Day](https://twitter.com/rlangtip)
+
+plus lots of people to follow on Twitter.
+
+---
+
+# Course "Ethics"
+
+These are very simple rules to follow to ensure a fair and productive course experience.
+
+1. Please **do** collaborate with your classmates.
+
+2. Please **do** check internet and other sources for solutions. You may occasionally come across exact solutions to some homeworks and exercises but it is up to you to learn or simply paste and pass.
+
+3. Please **do not** blatantly copy paste stuff and **always provide references to your sources** (with links). It is completely OK to "oh I found this amazing plotting code on this link and using it for my analysis". It is actually very desirable.
+
+  But it is **not OK** to "Here is a complete copy paste of some guy's analysis from Kaggle as my assignment". It is a direct F and a report to the department. 
+  
+4. Please **do not** submit the same as your classmate verbatim. Write your own code even if you peek.
+
+---
+
+# Summary
+
+1. This course is about end-to-end analytics and reproducibility.
+
+2. Complete your setup (install programs and packages, sign up for services -remember, everything is free!-).
+
+3. Build your Github Pages webpage. Learn how to push to your repository.
+
+4. Finish your first assignment by next week.
+
+5. Determine your group and email to instructor (group name + members) as soon as possible.
+
+---
+
+class: center, middle
+
+# Thanks!
+
+
+Course webpage https://mef-bda503.github.io/
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
