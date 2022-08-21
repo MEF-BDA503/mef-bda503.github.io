@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "First page",
+    "title": "Welcome",
     "section": "",
-    "text": "Hello!"
+    "text": "We are under a major renovation. Meanwhile you can refer to Course Archives"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About the Course",
     "section": "",
-    "text": "About this site"
+    "text": "MEF BDA 503 Data Analytics Essentials is a grad level data analytics course."
+  },
+  {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Course Archive",
+    "section": "",
+    "text": "Course materials from Fall 2022 can be found at https://mef-bda503.github.io/fall22\nArchives from 2017 to 2021 can be found at https://mef-bda503.github.io/archive"
   }
 ]

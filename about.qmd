@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About the Course"
 ---
 
-About this site
+MEF BDA 503 Data Analytics Essentials is a grad level data analytics course.

@@ -1,5 +1,7 @@
 ---
-title: "First page"
+title: "Welcome"
 ---
 
-Hello!
+Welcome to the main page of MEF BDA 503 - Essentials of Data Analytics course page.
+
+We are under a major renovation. Meanwhile you can refer to [Course Archives](https://mef-bda503.github.io/archive)

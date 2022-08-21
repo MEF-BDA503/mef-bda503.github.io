@@ -4,11 +4,28 @@ project:
 
 website:
   title: "MEF BDA 503"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  subtitle: "Fall 2022"
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - text: Introduction
+        url: index.qmd
+      - section: "Basics"
+        contents:
+          - index.qmd
+      - section: "About"
+        contents:
+          - about.qmd
+      - text: Archive
+        url: archive.qmd
+    tools:
+      - icon: github
+        menu:
+        - text: This page repository
+          url: https://github.com/MEF-BDA503/mef-bda503.github.io
+        - text: Archive page repository
+          url: https://github.com/MEF-BDA503/archive
 
 format:
   html:
