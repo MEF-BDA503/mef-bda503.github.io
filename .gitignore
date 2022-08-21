@@ -1,4 +1,2 @@
-files/.DS_Store
-**/.DS_Store
-archive/.DS_Store
-.DS_Store
+/.quarto/
+/_site/
