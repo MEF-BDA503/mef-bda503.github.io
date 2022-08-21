@@ -147,7 +147,19 @@ ul.task-list{list-style: none;}
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#core-principles" id="toc-core-principles" class="nav-link" data-scroll-target="#core-principles">Core Principles</a></li>
+  <li><a href="#progress" id="toc-progress" class="nav-link" data-scroll-target="#progress">Progress</a>
+  <ul class="collapse">
+  <li><a href="#lecture-progress" id="toc-lecture-progress" class="nav-link" data-scroll-target="#lecture-progress">Lecture Progress</a></li>
+  </ul></li>
+  <li><a href="#outcomes" id="toc-outcomes" class="nav-link" data-scroll-target="#outcomes">Outcomes</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -168,9 +180,63 @@ ul.task-list{list-style: none;}
 
 </header>
 
-<p>MEF BDA 503 Data Analytics Essentials is a grad level data analytics course.</p>
+<section id="introduction" class="level1">
+<h1>Introduction</h1>
+<p>MEF BDA 503 Data Analytics Essentials is a grad level data analytics course taught at <a href="https://mef.edu.tr/en">MEF University</a> (Istanbul/Turkey) under <a href="https://bda.mef.edu.tr/en">Big Data Analytics (BDA)</a> Masters programme.</p>
+<p>BDA 503 is one of the core courses of the BDA programme. The course is active since 2016. There is a dedicated course webpage since 2017 (see the <a href="./archive.html">archive</a>).</p>
+<p>BDA 503’s main objective is to teach data analytics at a fundamental level. Implementation stands on three core principles: <strong>Analysis</strong>, <strong>Communication</strong> and <strong>Reproducibility</strong>. The course is designed to teach all these skills to students at a limited time.</p>
+<p>There is no prerequisite of any kind, <strong>even prior coding experience</strong>. Students of this course come from all sorts of backgrounds. My personal opinion is <strong>those who work with Excel frequently</strong>, benefit from the course the most.</p>
+<p>Main language of the course is English. Main programming language is <a href="https://www.r-project.org/">R</a>.</p>
+</section>
+<section id="core-principles" class="level1">
+<h1>Core Principles</h1>
+<ul>
+<li><p><strong>Analysis</strong> is taking raw data and extracting meaningful insights from the data. Main purpose is to teach Exploratory Data Analysis. In this course <a href="https://www.tidyverse.org/">tidyverse</a> packages, especially <a href="https://dplyr.tidyverse.org/">dplyr</a> and <a href="https://ggplot2.tidyverse.org/">ggplot2</a>, are taught and used.</p></li>
+<li><p><strong>Communication</strong> is to take the conducted analysis and convert it to a communication material (e.g.&nbsp;a report) for the stakeholders to understand the findings from the raw data. Two main R packages are used and taught: <a href="https://rmarkdown.rstudio.com/">RMarkdown</a> and <a href="https://shiny.rstudio.com/">Shiny</a>. <a href="https://quarto.org">Quarto</a> will gradually replace RMarkdown starting from Fall 2022.</p></li>
+<li><p><strong>Reproducibility</strong> is to recreate the analysis and findings using the same data and code. All of us do a lot of ad-hoc analyses and report findings based on the results of those analyses. It is actually a bad practice. Therefore all assignments and projects are done with RMarkdown/Quarto to keep code and analysis together.</p></li>
+</ul>
+<p>In this course “stakeholders” are the public, therefore all work is kept in Github repositories called “Progress Journals” and findings are displayed using Github Pages. Reproducibility and communication is achieved (up to a point) this way.</p>
+</section>
+<section id="progress" class="level1">
+<h1>Progress</h1>
+<p>Although the course itself evolves continuously, underlying process remains largely the same.</p>
+<ul>
+<li>Some light reading before the course starts</li>
+<li>7-week biweekly lectures by the instructor
+<ul>
+<li>Minimal lecturing</li>
+<li>In-class assignments</li>
+</ul></li>
+<li>Guest lectures from the technical and business side of the data analytics . Mainly startup founders, deeply technical people, and analysts and managers of corporates.</li>
+<li>Individual and group assignments</li>
+<li>Student group project presentations</li>
+<li>A take-home Final</li>
+</ul>
+<section id="lecture-progress" class="level2">
+<h2 class="anchored" data-anchor-id="lecture-progress">Lecture Progress</h2>
+<ul>
+<li>Lecture 1 - <strong>Introduction and Setup</strong>: Introduction to the course, setting up Github accounts and Progress Journals. Some base R functionality. First assignment is always an introduction page with RMarkdown/Quarto on Progress Journals.</li>
+<li>Lecture 2 - <strong>Introduction to dplyr</strong>: First analysis tool is dplyr. Students take (rectangular) raw data and conduct simple analysis with the fundamental dplyr commands such as <code>select/rename</code>, <code>filter</code>, <code>arrange</code>, <code>mutate/transmute</code> and <code>group_by/summarize</code>.</li>
+<li>Lecture 3 - <strong>Introduction to ggplot2</strong>: When simple analysis is learned, it is time for visualization. There is usually a guest lecturer.</li>
+<li>Lecture 4 - <strong>Introduction to Shiny</strong>: After learning static reporting with dplyr, ggplot2 and Quarto/RMarkdown it is time for interactive dashboards. There is usually a guest lecturer.</li>
+<li>Lecture 5 - <strong>Further into data analysis</strong>: It is time to do analysis with multiple data sets and advanced transformations. Students learn about joining tables and transforming data sets from/to wide/long formats using tidyverse. There is usually a guest lecturer.</li>
+<li>Lecture 6 - <strong>Advanced topics</strong>: This lecture is reserved for advanced topics such as introduction to machine learning, Docker, work with Python with <a href="https://rstudio.github.io/reticulate/">reticulate</a> package, other packages such as <a href="https://thinkr-open.github.io/golem/">golem</a>. There is usually a guest lecturer.</li>
+<li>Lecture 7 - <strong>Presentations</strong>: This time students are the lecturers.</li>
+</ul>
+</section>
+</section>
+<section id="outcomes" class="level1">
+<h1>Outcomes</h1>
+<ul>
+<li>Students learn data analysis and communication of their analyses to relevant stakeholders</li>
+<li>Students can code in R and use some of its most powerful packages to conduct and publish their analyses.</li>
+<li>Students can use basic functions of Github and Github Pages (next Github Actions).</li>
+<li>Students are introduced to reproducibility.</li>
+<li>Students have a portfolio page (Progress Journal) to showcase in the future (e.g.&nbsp;in job applications).</li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

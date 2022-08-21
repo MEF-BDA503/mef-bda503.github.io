@@ -11,9 +11,6 @@ website:
     contents:
       - text: Introduction
         url: index.qmd
-      - section: "Basics"
-        contents:
-          - index.qmd
       - section: "About"
         contents:
           - about.qmd
