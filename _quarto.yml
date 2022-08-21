@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "mef-bda503.github.io"
+  title: "MEF BDA 503"
   navbar:
     left:
       - href: index.qmd
