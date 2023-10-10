@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "We are under a major renovation. Meanwhile you can see About page for more information.\n\nFall 2022 course webpage is available.\nYou can also visit Course Archives for courses between 2017-2021.\nCourse materials are being aggregated in a “book”: Book of EDA"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About the Course",
@@ -14,24 +7,24 @@
     "text": "MEF BDA 503 Data Analytics Essentials is a grad level data analytics course taught at MEF University (Istanbul/Turkey) under Big Data Analytics (BDA) Masters programme.\nBDA 503 is one of the core courses of the BDA programme. The course is active since 2016. There is a dedicated course webpage since 2017 (see the archive).\nBDA 503’s main objective is to teach data analytics at a fundamental level. Implementation stands on three core principles: Analysis, Communication and Reproducibility. The course is designed to teach all these skills to students at a limited time.\nThere is no prerequisite of any kind, even prior coding experience. Students of this course come from all sorts of backgrounds. My personal opinion is those who work with Excel frequently, benefit from the course the most.\nMain language of the course is English. Main programming language is R."
   },
   {
-    "objectID": "archive.html",
-    "href": "archive.html",
-    "title": "Course Archive",
-    "section": "",
-    "text": "Course materials from Fall 2022 can be found at https://mef-bda503.github.io/fall22\nArchives from 2017 to 2021 can be found at https://mef-bda503.github.io/archive"
-  },
-  {
-    "objectID": "about.html#analysis",
-    "href": "about.html#analysis",
-    "title": "About the Course",
-    "section": "Analysis",
-    "text": "Analysis\nAnalysis means taking raw data and extracting meaningful insights from the data. Main purpose is to teach Exploratory Data Analysis In this course we teach and mainly use tidyverse packages, especially dplyr and ggplot2."
-  },
-  {
     "objectID": "about.html#lecture-progress",
     "href": "about.html#lecture-progress",
     "title": "About the Course",
     "section": "Lecture Progress",
     "text": "Lecture Progress\n\nLecture 1 - Introduction and Setup: Introduction to the course, setting up Github accounts and Progress Journals. Some base R functionality. First assignment is always an introduction page with RMarkdown/Quarto on Progress Journals.\nLecture 2 - Introduction to dplyr: First analysis tool is dplyr. Students take (rectangular) raw data and conduct simple analysis with the fundamental dplyr commands such as select/rename, filter, arrange, mutate/transmute and group_by/summarize.\nLecture 3 - Introduction to ggplot2: When simple analysis is learned, it is time for visualization. There is usually a guest lecturer.\nLecture 4 - Introduction to Shiny: After learning static reporting with dplyr, ggplot2 and Quarto/RMarkdown it is time for interactive dashboards. There is usually a guest lecturer.\nLecture 5 - Further into data analysis: It is time to do analysis with multiple data sets and advanced transformations. Students learn about joining tables and transforming data sets from/to wide/long formats using tidyverse. There is usually a guest lecturer.\nLecture 6 - Advanced topics: This lecture is reserved for advanced topics such as introduction to machine learning, Docker, work with Python with reticulate package, other packages such as golem. There is usually a guest lecturer.\nLecture 7 - Presentations: This time students are the lecturers."
+  },
+  {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Course Archive",
+    "section": "",
+    "text": "Course archives are in other repositories than the main page.\n\nCourse materials from Fall 2022 can be found at https://mef-bda503.github.io/fall22\nArchives from 2017 to 2021 can be found at https://mef-bda503.github.io/archive"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to the main page of MEF BDA 503 - Essentials of Data Analytics course page.\nWe are under a major renovation. Meanwhile you can see About page for more information.\n\nFall 2023 course webpage is available.\nYou can also visit Course Archives for courses between 2017-2021.\nCourse materials are being aggregated in a “book”: Book of EDA"
   }
 ]

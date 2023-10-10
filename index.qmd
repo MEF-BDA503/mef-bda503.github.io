@@ -6,6 +6,6 @@ Welcome to the main page of MEF BDA 503 - Essentials of Data Analytics course pa
 
 We are under a major renovation.  Meanwhile you can see [About page](about.html) for more information.
 
-+ [Fall 2022](https://mef-bda503.github.io/fall22) course webpage is available.
++ [Fall 2023](https://mef-bda503.github.io/fall23) course webpage is available.
 + You can also visit [Course Archives](https://mef-bda503.github.io/archive) for courses between 2017-2021.
 + Course materials are being aggregated in a "book": [Book of EDA](https://berkorbay.github.io/book-of-eda)
