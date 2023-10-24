@@ -18,13 +18,13 @@
     "href": "archive.html",
     "title": "Course Archive",
     "section": "",
-    "text": "Course archives are in other repositories than the main page.\n\nCourse materials from Fall 2022 can be found at https://mef-bda503.github.io/fall22\nArchives from 2017 to 2021 can be found at https://mef-bda503.github.io/archive"
+    "text": "Course archives are in other repositories than the main page.\n\nArchives can be found at https://mef-bda503.github.io/archive\nFrom 2022, BDA 503 started to use Quarto."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Welcome to the main page of MEF BDA 503 - Essentials of Data Analytics course page.\nWe are under a major renovation. Meanwhile you can see About page for more information.\n\nFall 2023 course webpage is available.\nYou can also visit Course Archives for courses between 2017-2021.\nCourse materials are being aggregated in a “book”: Book of EDA"
+    "text": "Welcome to the main page of MEF BDA 503 - Essentials of Data Analytics course page.\nWe are under a major renovation. Meanwhile you can see About page for more information.\n\nFall 2023 course webpage is available.\nYou can also visit Course Archives for courses between 2017-2022.\nCourse materials are being aggregated in a “book”: Book of EDA"
   }
 ]

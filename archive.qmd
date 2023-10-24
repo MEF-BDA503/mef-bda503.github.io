@@ -4,5 +4,5 @@ title: "Course Archive"
 
 Course archives are in other repositories than the main page.
 
-- Course materials from Fall 2022 can be found at <https://mef-bda503.github.io/fall22>
-- Archives from 2017 to 2021 can be found at <https://mef-bda503.github.io/archive>
+- Archives can be found at <https://mef-bda503.github.io/archive>
+- From 2022, BDA 503 started to use Quarto.
